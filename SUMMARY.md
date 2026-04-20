@@ -1,17 +1,21 @@
-# CRIMELAND Wiki
+# Table of contents
 
 * [👋 Ласкаво просимо](README.md)
 
 ## 🚀 Початок
-* [Як зайти на сервер?](getting-started/connect.md)
-* [Створення персонажа](getting-started/character.md)
-* [Перші кроки](getting-started/first-steps.md)
+
+* [🚀 Як зайти на сервер?](getting-started/connect.md)
+* [🧍 Створення персонажа](getting-started/character.md)
+* [🧭 Перші кроки](getting-started/first-steps.md)
 
 ## 🧍 Персонаж
-* [Інвентар](character/inventory.md)
+
+* [🎒 Інвентар](character/inventory.md)
 
 ## 🎮 Управління
-* [Радіальне меню](controls/radial.md)
+
+* [🎯 Радіальне меню](controls/radial.md)
 
 ## 🔫 Кримінал
-* [Банди](crime/gangs.md)
+
+* [🏴 Банди](crime/gangs.md)
