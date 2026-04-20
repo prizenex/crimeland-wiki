@@ -1,21 +1,21 @@
 # Table of contents
 
-* [👋 Ласкаво просимо](README.md)
+* [Ласкаво просимо](README.md)
 
-## 🚀 Початок
+## Початок
 
-* [🚀 Як зайти на сервер?](getting-started/connect.md)
-* [🧍 Створення персонажа](getting-started/character.md)
-* [🧭 Перші кроки](getting-started/first-steps.md)
+* [Як зайти на сервер?](getting-started/connect.md)
+* [Створення персонажа](getting-started/character.md)
+* [Перші кроки](getting-started/first-steps.md)
 
-## 🧍 Персонаж
+## Персонаж
 
-* [🎒 Інвентар](character/inventory.md)
+* [Інвентар](character/inventory.md)
 
-## 🎮 Управління
+## Управління
 
-* [🎯 Радіальне меню](controls/radial.md)
+* [Радіальне меню](controls/radial.md)
 
-## 🔫 Кримінал
+## Кримінал
 
-* [🏴 Банди](crime/gangs.md)
+* [Банди](crime/gangs.md)
