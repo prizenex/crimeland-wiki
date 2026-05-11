@@ -10,7 +10,7 @@ icon: right-to-bracket
 Створіть пусту папку та завантажте в неї лаунчер [**FiveM**](https://runtime.fivem.net/client/FiveM.exe)
 
 {% hint style="warning" %}
-Якщо лаунчер буде запускатись не з пустої папки, вміст буде автоматично розпаковано в AppData.
+Якщо запустити лаунчер не з пустої папки, його вміст буде автоматично розпаковано в AppData.
 {% endhint %}
 
 {% hint style="info" %}
