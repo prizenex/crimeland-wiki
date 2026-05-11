@@ -7,9 +7,13 @@ icon: right-to-bracket
 
 ### Встановлення FiveM
 
-Створіть папку та завантажте в неї лаунчер [**FiveM**](https://runtime.fivem.net/client/FiveM.exe)
+Створіть пусту папку та завантажте в неї лаунчер [**FiveM**](https://runtime.fivem.net/client/FiveM.exe)
 
 {% hint style="warning" %}
+Якщо лаунчер буде запускатись не з пустої папки, вміст буде автоматично розпаковано в AppData.
+{% endhint %}
+
+{% hint style="info" %}
 Для гри на сервері рекомендовано використовувати SSD-накопичувач з \~50 гб вільного місця.
 {% endhint %}
 
