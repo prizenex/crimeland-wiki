@@ -40,6 +40,10 @@ icon: right-to-bracket
 2. Оберіть GTA V
 3. Натисніть **Open Folder / Відкрити папку гри**
 
+{% hint style="danger" %}
+Перед запуском FiveM у вас має бути запущений Steam, незалежно від того, в якому лаунчері придбана GTA V.
+{% endhint %}
+
 ### Підключення до сервера
 
 Натисніть Play та в пошуку серверів введіть назву - [CRIMELAND RP](https://servers.fivem.net/servers/detail/a7gbre)
