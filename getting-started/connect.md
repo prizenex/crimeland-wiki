@@ -44,11 +44,10 @@ icon: right-to-bracket
 
 Натисніть Play та в пошуку серверів введіть назву - [CRIMELAND RP](https://servers.fivem.net/servers/detail/a7gbre)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Після цього можете підключатися та починати грати.
 
 {% hint style="success" %}
 Рекомендуємо додати сервер в закладки натиснувши ❤️
 {% endhint %}
-
