@@ -124,6 +124,7 @@
 
 * [Вступ і початок роботи](police/getting-started.md)
 * [Посібник офіцера поліції](police/officer-guide.md)
+* [Таблиця стандартних вироків](police/standard-sentences.md)
 * [Термінал бази даних](police/database-terminal.md)
 * [Радар та сканер](police/radar-scanner.md)
 * [Криміналістика](police/forensics.md)
