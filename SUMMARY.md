@@ -1,5 +1,9 @@
 # Table of contents
 
+## Нові кримінальні матеріали
+
+* [Викрадення автомобілів (Boosting)](crime/boosting.md)
+
 * [Ласкаво просимо](README.md)
 
 ## Основи
