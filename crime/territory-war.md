@@ -100,9 +100,9 @@ icon: map
 
 | Нагорода | Кількість |
 | --- | --- |
-| <p>Криптовалюта (біткоін)</p><p>![](../.gitbook/assets/bitcoin.png)</p> | **10** |
+| <img src="../.gitbook/assets/bitcoin.png" alt="Криптовалюта (біткоін)" width="24"> Криптовалюта (біткоін) | **10** |
 | Готівка | **$2 000** |
-| <p>Бандаж</p><p>![](../.gitbook/assets/bandage.png)</p> | **0–3** (випадково) |
+| <img src="../.gitbook/assets/bandage.png" alt="Бандаж" width="24"> Бандаж | **0–3** (випадково) |
 
 ## Цінні зони на мапі
 

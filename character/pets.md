@@ -8,11 +8,11 @@ icon: dog
 На CRIMELAND можна завести **кота або собаку**, одягати їх, годувати та брати з собою в місто. Кожна тварина має власні **стати**, **інвентар** і **настрій**.
 
 <p align="center">
-<img src="../.gitbook/assets/pet-amer-cat.webp" alt="Кіт" width="120">
-<img src="../.gitbook/assets/pet-rottweiler-k9.webp" alt="Ротвейлер" width="120">
-<img src="../.gitbook/assets/pet-bulldog-k9.webp" alt="Бульдог" width="120">
-<img src="../.gitbook/assets/pet-dalmatian.webp" alt="Далматинець" width="120">
-<img src="../.gitbook/assets/pet-akita.webp" alt="Акіта" width="120">
+<img src="../.gitbook/assets/pet-amer-cat.webp" alt="Кіт" width="48">
+<img src="../.gitbook/assets/pet-rottweiler-k9.webp" alt="Ротвейлер" width="48">
+<img src="../.gitbook/assets/pet-bulldog-k9.webp" alt="Бульдог" width="48">
+<img src="../.gitbook/assets/pet-dalmatian.webp" alt="Далматинець" width="48">
+<img src="../.gitbook/assets/pet-akita.webp" alt="Акіта" width="48">
 </p>
 
 ## Де відкрити меню
@@ -41,11 +41,11 @@ icon: dog
 
 | Улюбленець | Вартість |
 | --- | --- |
-| <p>Американський кіт (рудий)</p><p>![](../.gitbook/assets/pet-amer-cat.webp)</p> | **500 000$** |
-| <p>Готвеллер + К9</p><p>![](../.gitbook/assets/pet-rottweiler-k9.webp)</p> | **1 000 000$** |
-| <p>Англійський бульдог (К9)</p><p>![](../.gitbook/assets/pet-bulldog-k9.webp)</p> | **200 000$** + VIP-монети |
-| <p>Далматинець + К9</p><p>![](../.gitbook/assets/pet-dalmatian.webp)</p> | **260 000$** + VIP-монети |
-| <p>Акіта (передзамовлення)</p><p>![](../.gitbook/assets/pet-akita.webp)</p> | VIP-монети |
+| <img src="../.gitbook/assets/pet-amer-cat.webp" alt="Американський кіт (рудий)" width="24"> Американський кіт (рудий) | **500 000$** |
+| <img src="../.gitbook/assets/pet-rottweiler-k9.webp" alt="Готвеллер + К9" width="24"> Готвеллер + К9 | **1 000 000$** |
+| <img src="../.gitbook/assets/pet-bulldog-k9.webp" alt="Англійський бульдог (К9)" width="24"> Англійський бульдог (К9) | **200 000$** + VIP-монети |
+| <img src="../.gitbook/assets/pet-dalmatian.webp" alt="Далматинець + К9" width="24"> Далматинець + К9 | **260 000$** + VIP-монети |
+| <img src="../.gitbook/assets/pet-akita.webp" alt="Акіта (передзамовлення)" width="24"> Акіта (передзамовлення) | VIP-монети |
 
 Частина порід — **VIP** або **передзамовлення**: для покупки та виклику потрібен **активний VIP-статус**. Без VIP куплену раніше VIP-тварину **не вийде викликати**, поки статус не поновиться.
 
@@ -59,14 +59,14 @@ icon: dog
 
 | Предмет | Для чого |
 | --- | --- |
-| <p>Корм</p><p>![](../.gitbook/assets/pet-food.webp)</p> | Відновлює **голод** |
-| <p>Вода / миска</p><p>![](../.gitbook/assets/pet-water.webp)</p> | Відновлює **спрагу** |
-| <p>Ласощі</p><p>![](../.gitbook/assets/pet-treat.webp)</p> | Швидкий перекус, піднімає настрій |
-| <p>Аптечка</p><p>![](../.gitbook/assets/pet-medkit.webp)</p> | Лікування та **відродження** |
-| <p>М’яч</p><p>![](../.gitbook/assets/pet-ball.webp)</p> | Гра «апорт» — росте **щастя** |
-| <p>Повідок</p><p>![](../.gitbook/assets/pet-leash.webp)</p> | Контроль руху поруч із вами |
-| <p>Ліжко</p><p>![](../.gitbook/assets/pet-bed.webp)</p> | Відпочинок, відновлення витривалості |
-| <p>Миска</p><p>![](../.gitbook/assets/pet-bowl.webp)</p> | Постановка вдома або на вулиці |
+| <img src="../.gitbook/assets/pet-food.webp" alt="Корм" width="24"> Корм | Відновлює **голод** |
+| <img src="../.gitbook/assets/pet-water.webp" alt="Вода / миска" width="24"> Вода / миска | Відновлює **спрагу** |
+| <img src="../.gitbook/assets/pet-treat.webp" alt="Ласощі" width="24"> Ласощі | Швидкий перекус, піднімає настрій |
+| <img src="../.gitbook/assets/pet-medkit.webp" alt="Аптечка" width="24"> Аптечка | Лікування та **відродження** |
+| <img src="../.gitbook/assets/pet-ball.webp" alt="М’яч" width="24"> М’яч | Гра «апорт» — росте **щастя** |
+| <img src="../.gitbook/assets/pet-leash.webp" alt="Повідок" width="24"> Повідок | Контроль руху поруч із вами |
+| <img src="../.gitbook/assets/pet-bed.webp" alt="Ліжко" width="24"> Ліжко | Відпочинок, відновлення витривалості |
+| <img src="../.gitbook/assets/pet-bowl.webp" alt="Миска" width="24"> Миска | Постановка вдома або на вулиці |
 
 ## Керування на вулиці
 
@@ -90,7 +90,7 @@ icon: dog
 Киньте **м’яч** з інвентаря улюбленця — він побіжить принести.
 
 <p align="center">
-<img src="../.gitbook/assets/pet-ball.webp" alt="М'яч" width="96">
+<img src="../.gitbook/assets/pet-ball.webp" alt="М'яч" width="24">
 </p>
 
 Це витрачає **голод**, **спрагу** та **витривалість**, але піднімає **настрій**.

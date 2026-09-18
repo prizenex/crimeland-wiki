@@ -79,9 +79,9 @@ icon: box-open
 
 | Предмет | Ефект (орієнтовно) |
 | --- | --- |
-| <p>Тост з сиром</p><p>![](../.gitbook/assets/tosti.png)</p> | ~20% голоду |
-| <p>Вода</p><p>![](../.gitbook/assets/water_bottle.png)</p> | Вгамовує спрагу |
-| <p>Кола</p><p>![](../.gitbook/assets/kurkakola.png)</p> | Вгамовує спрагу |
+| <img src="../.gitbook/assets/tosti.png" alt="Тост з сиром" width="24"> Тост з сиром | ~20% голоду |
+| <img src="../.gitbook/assets/water_bottle.png" alt="Вода" width="24"> Вода | Вгамовує спрагу |
+| <img src="../.gitbook/assets/kurkakola.png" alt="Кола" width="24"> Кола | Вгамовує спрагу |
 
 Їжа та напої **псується** з часом — не купуйте надто багато про запас. Купівля — у [магазинах 24/7](../basics/shops.md).
 
@@ -96,8 +96,8 @@ icon: box-open
 
 | Предмет | Призначення |
 | --- | --- |
-| <p>ID-карта</p><p>![](../.gitbook/assets/id_card.png)</p> | Посвідчення особи |
-| <p>Гаманець</p><p>![](../.gitbook/assets/wallet.png)</p> | Зберігання та **показ** документів, посвідчень |
+| <img src="../.gitbook/assets/id_card.png" alt="ID-карта" width="24"> ID-карта | Посвідчення особи |
+| <img src="../.gitbook/assets/wallet.png" alt="Гаманець" width="24"> Гаманець | Зберігання та **показ** документів, посвідчень |
 
 Гаманець купується в [мерії](../basics/city-hall.md) (~2 000$). Без нього незручно пред’являти документи в RP.
 

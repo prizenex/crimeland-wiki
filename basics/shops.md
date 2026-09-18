@@ -60,8 +60,8 @@ icon: store
 
 | Предмет | Базова ціна | Ефект |
 | --- | --- | --- |
-| <p>Тост з сиром</p><p>![](../.gitbook/assets/tosti.png)</p> | ~200$ | Відновлює голод (~20%) |
-| <p>Сендвіч</p><p>![](../.gitbook/assets/sandwich.png)</p> | ~250$ | Перекус, відновлення голоду |
+| <img src="../.gitbook/assets/tosti.png" alt="Тост з сиром" width="24"> Тост з сиром | ~200$ | Відновлює голод (~20%) |
+| <img src="../.gitbook/assets/sandwich.png" alt="Сендвіч" width="24"> Сендвіч | ~250$ | Перекус, відновлення голоду |
 | Цукерки Twerks | ~150$ | Легкий перекус |
 | Цукерки Snikkel | ~200$ | Легкий перекус |
 
@@ -69,8 +69,8 @@ icon: store
 
 | Предмет | Базова ціна | Ефект |
 | --- | --- | --- |
-| <p>Вода</p><p>![](../.gitbook/assets/water_bottle.png)</p> | ~500$ | Вгамовує спрагу |
-| <p>Кола</p><p>![](../.gitbook/assets/kurkakola.png)</p> | ~400$ | Вгамовує спрагу |
+| <img src="../.gitbook/assets/water_bottle.png" alt="Вода" width="24"> Вода | ~500$ | Вгамовує спрагу |
+| <img src="../.gitbook/assets/kurkakola.png" alt="Кола" width="24"> Кола | ~400$ | Вгамовує спрагу |
 | Спранк | ~500$ | Газований напій |
 | Енергетик | ~700$ | Освіжає, знімає втому |
 
@@ -78,8 +78,8 @@ icon: store
 
 | Предмет | Базова ціна | Призначення |
 | --- | --- | --- |
-| <p>Бандаж</p><p>![](../.gitbook/assets/bandage.png)</p> | ~50$ | Легке лікування поранень |
-| <p>Аптечка</p><p>![](../.gitbook/assets/firstaid.png)</p> | ~5 000$ | Серйозніше відновлення здоров’я |
+| <img src="../.gitbook/assets/bandage.png" alt="Бандаж" width="24"> Бандаж | ~50$ | Легке лікування поранень |
+| <img src="../.gitbook/assets/firstaid.png" alt="Аптечка" width="24"> Аптечка | ~5 000$ | Серйозніше відновлення здоров’я |
 
 ## «Діджитал Ден»
 
@@ -87,9 +87,9 @@ icon: store
 
 | Предмет | Базова ціна | Навіщо |
 | --- | --- | --- |
-| <p>Телефон</p><p>![](../.gitbook/assets/phone.png)</p> | ~1 200$ | Відкриває меню телефону (`M`) |
-| <p>Рація</p><p>![](../.gitbook/assets/radio.png)</p> | ~3 500$ | Зв’язок на частотах |
-| <p>Павербанк</p><p>![](../.gitbook/assets/powerbank.png)</p> | ~500$ | Підзарядка телефону |
+| <img src="../.gitbook/assets/phone.png" alt="Телефон" width="24"> Телефон | ~1 200$ | Відкриває меню телефону (`M`) |
+| <img src="../.gitbook/assets/radio.png" alt="Рація" width="24"> Рація | ~3 500$ | Зв’язок на частотах |
+| <img src="../.gitbook/assets/powerbank.png" alt="Павербанк" width="24"> Павербанк | ~500$ | Підзарядка телефону |
 | Гоночний планшет (Гонки GPS) | ~1 000$ | Вуличні [гонки](../transport/racing.md) |
 | Соціальний трекер | ~20 000$ | Додатковий гаджет |
 
@@ -102,13 +102,13 @@ icon: store
 | Спорядження | Намет, багаття, шатро, стілець, стіл, прожектор | 300$–2 500$ |
 | Продукти | Цибуля, перець, ковбаски, соуси, спеції | 2$–650$ |
 
-![](../.gitbook/assets/tent.png) ![](../.gitbook/assets/bonfire.png) ![](../.gitbook/assets/chair.png)
+<img src="../.gitbook/assets/tent.png" width="24"> <img src="../.gitbook/assets/bonfire.png" width="24"> <img src="../.gitbook/assets/chair.png" width="24">
 
 ## YouTool та Benny's
 
 | Магазин | Що продає | Приклади |
 | --- | --- | --- |
-| **YouTool** | Побутове, інструменти | <p>Відмичка ~500$</p><p>![](../.gitbook/assets/lockpick.png)</p>, ремонтний набір ~5 000$, бінокль, феєрверки |
+| **YouTool** | Побутове, інструменти | <img src="../.gitbook/assets/lockpick.png" alt="Відмичка ~500$" width="24"> Відмичка ~500$, ремонтний набір ~5 000$, бінокль, феєрверки |
 | **Benny's** | Тюнінг і запчастини | Деталі для [тюнінгу](../transport/tuning.md), замовлення на обслуговування |
 
 ## Ammunation

@@ -158,7 +158,7 @@ icon: mobile-screen-button
 | --- | --- | --- |
 | Павербанк | **«Діджитал Ден»** (див. [Магазини](shops.md)) | Використати в інвентарі — підзаряджає телефон |
 
-![](../.gitbook/assets/powerbank.png)
+<img src="../.gitbook/assets/powerbank.png" width="24">
 
 ## Телефон і рація
 

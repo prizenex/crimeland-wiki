@@ -107,7 +107,7 @@ icon: hand-holding-dollar
 
 | Предмет | Мін | Оптимум | Макс | Макс. за раз |
 | --- | --- | --- | --- | --- |
-| <p>Пакет кокаїну</p><p>![](../.gitbook/assets/cokebaggy.png)</p> | $220 | $350 | $480 | 6 шт. |
+| <img src="../.gitbook/assets/cokebaggy.png" alt="Пакет кокаїну" width="24"> Пакет кокаїну | $220 | $350 | $480 | 6 шт. |
 
 Для **оптового збуту** через зону Vanilla Unicorn див. [Кокос](coke.md) — там вищі суми, але потрібна територія.
 
@@ -115,9 +115,9 @@ icon: hand-holding-dollar
 
 | Якість | Мін | Оптимум | Макс | Макс. за раз |
 | --- | --- | --- | --- | --- |
-| <p>Низька</p><p>![](../.gitbook/assets/kq_meth_low.png)</p> | $200 | $250 | $300 | 6 шт. |
-| <p>Середня</p><p>![](../.gitbook/assets/kq_meth_mid.png)</p> | $500 | $625 | $750 | 5 шт. |
-| <p>Висока</p><p>![](../.gitbook/assets/kq_meth_high.png)</p> | $800 | $900 | $999 | 4 шт. |
+| <img src="../.gitbook/assets/kq_meth_low.png" alt="Низька" width="24"> Низька | $200 | $250 | $300 | 6 шт. |
+| <img src="../.gitbook/assets/kq_meth_mid.png" alt="Середня" width="24"> Середня | $500 | $625 | $750 | 5 шт. |
+| <img src="../.gitbook/assets/kq_meth_high.png" alt="Висока" width="24"> Висока | $800 | $900 | $999 | 4 шт. |
 
 ### Інше
 

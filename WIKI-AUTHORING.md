@@ -6,7 +6,7 @@
 
 Вікі читає **гравець у сесії**, не розробник. Пишемо як довідник мешканця штату:
 
-- **Так:** «Підійди до NPC, `лівий Alt`», бліп ![](../.gitbook/assets/blips/419.png), іконка ПКМ ![](../.gitbook/assets/inputs/mouse-rmb.svg), предмет ![](../.gitbook/assets/mechanic_tablet.png) → **Використати** в інвентарі
+- **Так:** «Підійди до NPC, `лівий Alt`», бліп ![](../.gitbook/assets/blips/419.png), іконка ПКМ ![](../.gitbook/assets/inputs/mouse-rmb.svg), предмет <img src="../.gitbook/assets/mechanic_tablet.png" width="24"> → **Використати** в інвентарі
 - **Ні:** назви ресурсів, `vector3`, `TriggerServerEvent`, папки `[job]`, **команди чату** (`/tablet`, `/multijob`, `/furniture` …)
 
 > Гравці **не користуються `/командами`**. Якщо дія відкривається предметом — показуй **іконку з `.gitbook/assets/`** і шлях: `Tab` → ПКМ → **Використати**. Якщо дія в меню — **`F1`**, **`F7`**, радіальне меню. Команди в конфігу скрипта — лише для авторів при звірці, не для тексту гайду.
@@ -117,7 +117,7 @@ Escrow-файли (зашифровані) — читай **лише відкр�
 
 - Назва предмета в гайді = `name` з `ox_inventory/data/items.lua`
 - Картинка: копіюй з `chinazes/resources/ox_inventory/web/images/<item>.png` → `crimeland-wiki/.gitbook/assets/<item>.png`
-- У markdown: `![](../.gitbook/assets/item_name.png)`
+- У markdown: `<img src="../.gitbook/assets/item_name.png" width="24">`
 
 ### Крок 5 — Не писати назви скриптів гравцю
 

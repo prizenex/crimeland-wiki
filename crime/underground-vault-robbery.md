@@ -26,10 +26,10 @@ icon: dungeon
 
 | Предмет | Витрачається? | Навіщо |
 | --- | --- | --- |
-| <p>C4</p><p>![](../.gitbook/assets/bomb_c4.png)</p> | ✅ Так | Підрив дверей сховища |
+| <img src="../.gitbook/assets/bomb_c4.png" alt="C4" width="24"> C4 | ✅ Так | Підрив дверей сховища |
 | <p>Нейлонова мотузка</p> | ✅ Так | Прикріпити трос до об’єкта / авто |
-| <p>Фантомний USB</p><p>![](../.gitbook/assets/hack_usb.png)</p> | ✅ Так | Злам системи безпеки |
-| <p>Сумка</p><p>![](../.gitbook/assets/bag.png)</p> | ❌ Ні | Збір готівки |
+| <img src="../.gitbook/assets/hack_usb.png" alt="Фантомний USB" width="24"> Фантомний USB | ✅ Так | Злам системи безпеки |
+| <img src="../.gitbook/assets/bag.png" alt="Сумка" width="24"> Сумка | ❌ Ні | Збір готівки |
 
 ---
 
