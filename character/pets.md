@@ -26,7 +26,7 @@ icon: dog
 
 ## Де купити
 
-На мапі (`P`) — бліп ![](../.gitbook/assets/blips/442.png) **«Pet Shop»** (центр міста, біля [кафе](../business/cafe.md)). Підійдіть до NPC-продавця → **`лівий Alt`** (target).
+На мапі (`P`) — бліп ![](../.gitbook/assets/blips/442.png) **«Pet Shop»** (центр міста, біля [кафе](../business/cafe.md)). Підійдіть до NPC-продавця → **`E`** / **`лівий Alt`** ([Керування](../basics/controls.md)).
 
 У магазині доступні:
 
