@@ -19,10 +19,6 @@ icon: garage
 
 ### Планшет механіка
 
-<p align="center">
-<img src="../.gitbook/assets/mechanic_tablet.png" alt="Планшет механіка" width="96">
-</p>
-
 | Інструмент | Як відкрити |
 | --- | --- |
 | **Планшет механіка** | `Tab` → предмет у [інвентарі](../character/inventory.md) → **ПКМ** ![](../.gitbook/assets/inputs/mouse-rmb.svg) → **Використати** |
