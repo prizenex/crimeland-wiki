@@ -64,13 +64,13 @@ icon: cannabis
 
 | Сорт | Ріст (база) | ~У тенті | Полив не рідше ніж | Вікно збору після дозрівання |
 | --- | --- | --- | --- | --- |
-| **OG Kush** | **48 год** | ~40 год | кожні **2 год** | **3 год** |
-| **White Widow** | **54 год** | ~45 год | кожні **7 год** | **1 год** |
-| **Purple Haze** | **50 год** | ~45 год | кожні **12 год** | **20 хв** ⚠️ |
-| **Blue Dream** | **24 год** | ~20 год | кожні **8 год** | **3 год** |
-| **AK47** | **24 год** | ~20 год | кожні **8 год** | **1 год** |
-| **Amnesia** | **12 год** | ~10 год | кожні **2 год** | **1 год** |
-| **MAC1** | **~5 год** | ~4 год | кожні **2 год** | **2 год** |
+| <img src="../.gitbook/assets/weed_og-kush_bag.png" alt="OG Kush" data-size="line"> **OG Kush** | **48 год** | ~40 год | кожні **2 год** | **3 год** |
+| <img src="../.gitbook/assets/weed_white-widow_bag.png" alt="White Widow" data-size="line"> **White Widow** | **54 год** | ~45 год | кожні **7 год** | **1 год** |
+| <img src="../.gitbook/assets/weed_purple-haze_bag.png" alt="Purple Haze" data-size="line"> **Purple Haze** | **50 год** | ~45 год | кожні **12 год** | **20 хв** ⚠️ |
+| <img src="../.gitbook/assets/blue_dream_bag.png" alt="Blue Dream" data-size="line"> **Blue Dream** | **24 год** | ~20 год | кожні **8 год** | **3 год** |
+| <img src="../.gitbook/assets/weed_ak47_bag.png" alt="AK47" data-size="line"> **AK47** | **24 год** | ~20 год | кожні **8 год** | **1 год** |
+| <img src="../.gitbook/assets/weed_amnesia_bag.png" alt="Amnesia" data-size="line"> **Amnesia** | **12 год** | ~10 год | кожні **2 год** | **1 год** |
+| <img src="../.gitbook/assets/weed_mac1_bag.png" alt="MAC1" data-size="line"> **MAC1** | **~5 год** | ~4 год | кожні **2 год** | **2 год** |
 
 #### Як не пропустити цикл
 
