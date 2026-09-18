@@ -2,6 +2,17 @@
 
 Цей документ — **внутрішній гайд для авторів** (`crimeland-wiki`). Мета: описувати в гайдах **лише те, що реально працює на live-сервері**, а не те, що просто лежить у репозиторії `chinazes`.
 
+### Тон: гайдбук всередині RP
+
+Вікі читає **гравець у сесії**, не розробник. Пишемо як довідник мешканця штату:
+
+- **Так:** «Підійди до NPC, `лівий Alt`», бліп ![](../.gitbook/assets/blips/419.png), іконка ПКМ ![](../.gitbook/assets/inputs/mouse-rmb.svg), предмет ![](../.gitbook/assets/mechanic_tablet.png) → **Використати** в інвентарі
+- **Ні:** назви ресурсів, `vector3`, `TriggerServerEvent`, папки `[job]`, **команди чату** (`/tablet`, `/multijob`, `/furniture` …)
+
+> Гравці **не користуються `/командами`**. Якщо дія відкривається предметом — показуй **іконку з `.gitbook/assets/`** і шлях: `Tab` → ПКМ → **Використати**. Якщо дія в меню — **`F1`**, **`F7`**, радіальне меню. Команди в конфігу скрипта — лише для авторів при звірці, не для тексту гайду.
+
+Кожна стаття — **сценарій у світі**: де на мапі, що натиснути, що отримаєш.
+
 ---
 
 ## 1. Головне правило
@@ -164,6 +175,25 @@ icon: font-awesome-icon-name
 
 > **Пастка:** ID у файлі (`475.png`) має збігатися з `sprite` у `vms_housing` / `qs-housing` / іншому ensured-конфігу — не вигадуйте іконку «на око».
 
+### Іконки клавіш і миші
+
+У грі (онбординг, меню емоутів) кнопки показуються як **чіпи**: клавіші — білий прямокутник, миша — силует із **підсвіченою** ЛКМ / ПКМ / колесом (акцентний колір HUD).
+
+| Тип | Файл у вікі | Коли вставляти |
+| --- | --- | --- |
+| ЛКМ | `.gitbook/assets/inputs/mouse-lmb.svg` | лівий клік, «використати», запуск емоуту |
+| ПКМ | `.gitbook/assets/inputs/mouse-rmb.svg` | правий клік, контекстне меню, **спільні емоути** |
+| СКМ | `.gitbook/assets/inputs/mouse-mmb.svg` | колесо миші, «обрати місце» в AnimPos |
+| Клавіша | текст у `<kbd>` або «**TAB**» | звичайні бінди |
+
+Приклад у markdown (з `character/`):
+
+```markdown
+Натисніть **ПКМ** ![](../.gitbook/assets/inputs/mouse-rmb.svg) на гравця.
+```
+
+Джерело SVG: `[glovo]/crimeland_onboarding/html/script.js` (`MOUSE_SVG`). У `crimeland_hud` лише **текстові** чіпи клавіш (`.keyhint-key`), без іконок миші.
+
 ---
 
 ## 5. Сторінки, які не чіпати без окремого запиту
@@ -183,7 +213,7 @@ icon: font-awesome-icon-name
 
 | Тема | ❌ Неправильно | ✅ Правильно | Де перевірити |
 |------|---------------|-------------|---------------|
-| Батлпас | `/battlepass` або «меню сервера» | **F10** (команда `/battlepass` — додатково, якщо є) | `crimeland_sky_startquest/client.lua` |
+| Батлпас | `/battlepass` у конфігу | **F10** (у гайді — лише клавіша, без чату) | `crimeland_sky_startquest/client.lua` |
 | Емоції | F6, rpemotes | **U** — меню емоцій | `[addon]/cylex_animmenuv2/config.lua` (`OpenKey`) |
 | Зовнішність | ціни illenium | ціни **rcore_clothing** | `rcore_clothing` configs (illenium закоментований) |
 | Інвентар | «TAB» без перевірки | TAB / F2 / Z — з convar | `server.cfg` → `inventory:keys` |
@@ -284,7 +314,7 @@ icon: font-awesome-icon-name
 
 | Сторінка вікі | Основні ресурси | Config / override | Ensure |
 |---------------|-----------------|-------------------|--------|
-| `character/statuses.md` | `ZSX_UIV2`, `qb-smallresources`, `qb-stress-handler`, `rtx_gym` | HUD: `ZSX_UIV2/shared/ui_cfg/config_hud.lua`; спорт: `/mystats` → `rtx_gym` | окремий + `[qb]` + `[rtx]` |
+| `character/statuses.md` | `ZSX_UIV2`, `qb-smallresources`, `qb-stress-handler`, `rtx_gym` | HUD: `ZSX_UIV2/shared/ui_cfg/config_hud.lua`; стати: **F1** → Фізуха → Стати | окремий + `[qb]` + `[rtx]` |
 | `controls/radial.md` | `qb-radialmenu` | `[qb]/qb-radialmenu/config.lua` | `[qb]` |
 | `character/animations.md` | **`cylex_animmenuv2`** (`OpenKey = U`) | `[addon]/cylex_animmenuv2/config.lua` | `[addon]` |
 | `character/sport.md` | `rtx_gym` | `[rtx]/rtx_gym/config.lua` → `Config.Supplements` | `[rtx]` |
