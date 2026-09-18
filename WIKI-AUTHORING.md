@@ -150,6 +150,20 @@ icon: font-awesome-icon-name
 - UI-скріни → `.gitbook/assets/` з зрозумілими іменами (`battlepass-daily.png`)
 - Не коміть важкі `.zip` з сирими матеріалами в корінь розділу — лише готові assets
 
+### Бліпи GTA (орієнтири на мапі)
+
+Щоб гравцю було легше знайти точку, вставляйте **іконку бліпа** поруч із описом локації — той самий символ, що на мапі в грі.
+
+| Що | Де |
+| --- | --- |
+| PNG-файли | `.gitbook/assets/blips/{ID}.png` — `{ID}` = `sprite` з конфігу (`SetBlipSprite`) |
+| Довідник ID | [FiveM Blips](https://docs.fivem.net/docs/game-references/blips/) |
+| Приклад у тексті | `![](../.gitbook/assets/blips/475.png)` біля «будівля з апартаментами» |
+
+**Повний пак** уже в репо: `.gitbook/assets/blips/` (**767** PNG, ID `1`–`918`, пропуски — неіснуючі sprite у [bb_blip_creator](https://github.com/Baashabhai-studio/bb_blip_creator)). Для статті просто вставляйте `![](../.gitbook/assets/blips/{ID}.png)`.
+
+> **Пастка:** ID у файлі (`475.png`) має збігатися з `sprite` у `vms_housing` / `qs-housing` / іншому ensured-конфігу — не вигадуйте іконку «на око».
+
 ---
 
 ## 5. Сторінки, які не чіпати без окремого запиту
