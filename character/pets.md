@@ -8,11 +8,11 @@ icon: dog
 На CRIMELAND можна завести **кота або собаку**, одягати їх, годувати та брати з собою в місто. Кожна тварина має власні **стати**, **інвентар** і **настрій**.
 
 <p align="center">
-<img src="../.gitbook/assets/pet-amer-cat.webp" alt="Кіт" width="48">
-<img src="../.gitbook/assets/pet-rottweiler-k9.webp" alt="Ротвейлер" width="48">
-<img src="../.gitbook/assets/pet-bulldog-k9.webp" alt="Бульдог" width="48">
-<img src="../.gitbook/assets/pet-dalmatian.webp" alt="Далматинець" width="48">
-<img src="../.gitbook/assets/pet-akita.webp" alt="Акіта" width="48">
+<img src="../.gitbook/assets/pet-amer-cat.webp" alt="Кіт" data-size="line">
+<img src="../.gitbook/assets/pet-rottweiler-k9.webp" alt="Ротвейлер" data-size="line">
+<img src="../.gitbook/assets/pet-bulldog-k9.webp" alt="Бульдог" data-size="line">
+<img src="../.gitbook/assets/pet-dalmatian.webp" alt="Далматинець" data-size="line">
+<img src="../.gitbook/assets/pet-akita.webp" alt="Акіта" data-size="line">
 </p>
 
 ## Де відкрити меню
@@ -41,11 +41,11 @@ icon: dog
 
 | Улюбленець | Вартість |
 | --- | --- |
-| <img src="../.gitbook/assets/pet-amer-cat.webp" alt="Американський кіт (рудий)" width="24"> Американський кіт (рудий) | **500 000$** |
-| <img src="../.gitbook/assets/pet-rottweiler-k9.webp" alt="Готвеллер + К9" width="24"> Готвеллер + К9 | **1 000 000$** |
-| <img src="../.gitbook/assets/pet-bulldog-k9.webp" alt="Англійський бульдог (К9)" width="24"> Англійський бульдог (К9) | **200 000$** + VIP-монети |
-| <img src="../.gitbook/assets/pet-dalmatian.webp" alt="Далматинець + К9" width="24"> Далматинець + К9 | **260 000$** + VIP-монети |
-| <img src="../.gitbook/assets/pet-akita.webp" alt="Акіта (передзамовлення)" width="24"> Акіта (передзамовлення) | VIP-монети |
+| <img src="../.gitbook/assets/pet-amer-cat.webp" alt="Американський кіт (рудий)" data-size="line"> Американський кіт (рудий) | **500 000$** |
+| <img src="../.gitbook/assets/pet-rottweiler-k9.webp" alt="Готвеллер + К9" data-size="line"> Готвеллер + К9 | **1 000 000$** |
+| <img src="../.gitbook/assets/pet-bulldog-k9.webp" alt="Англійський бульдог (К9)" data-size="line"> Англійський бульдог (К9) | **200 000$** + VIP-монети |
+| <img src="../.gitbook/assets/pet-dalmatian.webp" alt="Далматинець + К9" data-size="line"> Далматинець + К9 | **260 000$** + VIP-монети |
+| <img src="../.gitbook/assets/pet-akita.webp" alt="Акіта (передзамовлення)" data-size="line"> Акіта (передзамовлення) | VIP-монети |
 
 Частина порід — **VIP** або **передзамовлення**: для покупки та виклику потрібен **активний VIP-статус**. Без VIP куплену раніше VIP-тварину **не вийде викликати**, поки статус не поновиться.
 
@@ -59,14 +59,14 @@ icon: dog
 
 | Предмет | Для чого |
 | --- | --- |
-| <img src="../.gitbook/assets/pet-food.webp" alt="Корм" width="24"> Корм | Відновлює **голод** |
-| <img src="../.gitbook/assets/pet-water.webp" alt="Вода / миска" width="24"> Вода / миска | Відновлює **спрагу** |
-| <img src="../.gitbook/assets/pet-treat.webp" alt="Ласощі" width="24"> Ласощі | Швидкий перекус, піднімає настрій |
-| <img src="../.gitbook/assets/pet-medkit.webp" alt="Аптечка" width="24"> Аптечка | Лікування та **відродження** |
-| <img src="../.gitbook/assets/pet-ball.webp" alt="М’яч" width="24"> М’яч | Гра «апорт» — росте **щастя** |
-| <img src="../.gitbook/assets/pet-leash.webp" alt="Повідок" width="24"> Повідок | Контроль руху поруч із вами |
-| <img src="../.gitbook/assets/pet-bed.webp" alt="Ліжко" width="24"> Ліжко | Відпочинок, відновлення витривалості |
-| <img src="../.gitbook/assets/pet-bowl.webp" alt="Миска" width="24"> Миска | Постановка вдома або на вулиці |
+| <img src="../.gitbook/assets/pet-food.webp" alt="Корм" data-size="line"> Корм | Відновлює **голод** |
+| <img src="../.gitbook/assets/pet-water.webp" alt="Вода / миска" data-size="line"> Вода / миска | Відновлює **спрагу** |
+| <img src="../.gitbook/assets/pet-treat.webp" alt="Ласощі" data-size="line"> Ласощі | Швидкий перекус, піднімає настрій |
+| <img src="../.gitbook/assets/pet-medkit.webp" alt="Аптечка" data-size="line"> Аптечка | Лікування та **відродження** |
+| <img src="../.gitbook/assets/pet-ball.webp" alt="М’яч" data-size="line"> М’яч | Гра «апорт» — росте **щастя** |
+| <img src="../.gitbook/assets/pet-leash.webp" alt="Повідок" data-size="line"> Повідок | Контроль руху поруч із вами |
+| <img src="../.gitbook/assets/pet-bed.webp" alt="Ліжко" data-size="line"> Ліжко | Відпочинок, відновлення витривалості |
+| <img src="../.gitbook/assets/pet-bowl.webp" alt="Миска" data-size="line"> Миска | Постановка вдома або на вулиці |
 
 ## Керування на вулиці
 
@@ -90,7 +90,7 @@ icon: dog
 Киньте **м’яч** з інвентаря улюбленця — він побіжить принести.
 
 <p align="center">
-<img src="../.gitbook/assets/pet-ball.webp" alt="М'яч" width="24">
+<img src="../.gitbook/assets/pet-ball.webp" alt="М'яч" data-size="line">
 </p>
 
 Це витрачає **голод**, **спрагу** та **витривалість**, але піднімає **настрій**.

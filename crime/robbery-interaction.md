@@ -46,10 +46,10 @@ icon: mask
 | Категорія | Приклади |
 | --- | --- |
 | Наркотики | Косяки, пакети коксу, мет, трава |
-| Крайм-інструменти | <img src="../.gitbook/assets/hack_usb.png" alt="USB" width="24"> USB, <img src="../.gitbook/assets/hack_card.png" alt="картка" width="24"> картка, дрилі, терміт |
-| Цінності | <img src="../.gitbook/assets/markedbills.png" alt="Мічені купюри" width="24"> Мічені купюри, золото, коштовності |
+| Крайм-інструменти | <img src="../.gitbook/assets/hack_usb.png" alt="USB" data-size="line"> USB, <img src="../.gitbook/assets/hack_card.png" alt="картка" data-size="line"> картка, дрилі, терміт |
+| Цінності | <img src="../.gitbook/assets/markedbills.png" alt="Мічені купюри" data-size="line"> Мічені купюри, золото, коштовності |
 | Зброя | Пістолети, гвинтівки (з списку сервера) |
-| Розхідники | <img src="../.gitbook/assets/lockpick.png" alt="Відмичка" width="24"> Відмичка, рація, телефон |
+| Розхідники | <img src="../.gitbook/assets/lockpick.png" alt="Відмичка" data-size="line"> Відмичка, рація, телефон |
 
 ### Що забрати НЕ можна
 
@@ -71,7 +71,7 @@ icon: mask
 
 | Дія | Для чого |
 | --- | --- |
-| <img src="../.gitbook/assets/ziptie.png" alt="Стяжки" width="24"> Стяжки | Скрутити руки — RP-утримання, **не замінює** обшук |
+| <img src="../.gitbook/assets/ziptie.png" alt="Стяжки" data-size="line"> Стяжки | Скрутити руки — RP-утримання, **не замінює** обшук |
 | Заручник | Окрема механіка утримання — **не дає** доступ до інвентаря |
 
 Обшук можливий **тільки в нокдауні**, незалежно від стяжок.

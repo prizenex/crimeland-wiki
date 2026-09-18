@@ -30,8 +30,8 @@ icon: mountain
 
 | Предмет | Ціна | Дистанція |
 | --- | --- | --- |
-| <img src="../.gitbook/assets/kq_tow_rope.png" alt="Буксирувальний трос" width="24"> Буксирувальний трос | **~10 000$** | до **10 м** |
-| <img src="../.gitbook/assets/kq_winch.png" alt="Лебідка автомобільна" width="24"> Лебідка автомобільна | **~15 000$** | до **90 м** |
+| <img src="../.gitbook/assets/kq_tow_rope.png" alt="Буксирувальний трос" data-size="line"> Буксирувальний трос | **~10 000$** | до **10 м** |
+| <img src="../.gitbook/assets/kq_winch.png" alt="Лебідка автомобільна" data-size="line"> Лебідка автомобільна | **~15 000$** | до **90 м** |
 
 ### Як використати
 

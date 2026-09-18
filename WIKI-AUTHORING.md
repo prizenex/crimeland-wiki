@@ -6,7 +6,7 @@
 
 Вікі читає **гравець у сесії**, не розробник. Пишемо як довідник мешканця штату:
 
-- **Так:** «Підійди до NPC, `лівий Alt`», бліп ![](../.gitbook/assets/blips/419.png), іконка ПКМ ![](../.gitbook/assets/inputs/mouse-rmb.svg), предмет <img src="../.gitbook/assets/mechanic_tablet.png" width="24"> → **Використати** в інвентарі
+- **Так:** «Підійди до NPC, `лівий Alt`», бліп ![](../.gitbook/assets/blips/419.png), іконка ПКМ ![](../.gitbook/assets/inputs/mouse-rmb.svg), предмет <img src="../.gitbook/assets/mechanic_tablet.png" data-size="line"> → **Використати** в інвентарі
 - **Ні:** назви ресурсів, `vector3`, `TriggerServerEvent`, папки `[job]`, **команди чату** (`/tablet`, `/multijob`, `/furniture` …)
 
 > Гравці **не користуються `/командами`**. Якщо дія відкривається предметом — показуй **іконку з `.gitbook/assets/`** і шлях: `Tab` → ПКМ → **Використати**. Якщо дія в меню — **`F1`**, **`F7`**, радіальне меню. Команди в конфігу скрипта — лише для авторів при звірці, не для тексту гайду.
@@ -117,7 +117,10 @@ Escrow-файли (зашифровані) — читай **лише відкр�
 
 - Назва предмета в гайді = `name` з `ox_inventory/data/items.lua`
 - Картинка: копіюй з `chinazes/resources/ox_inventory/web/images/<item>.png` → `crimeland-wiki/.gitbook/assets/<item>.png`
-- У markdown: `<img src="../.gitbook/assets/item_name.png" width="24">`
+- **Іконки в таблицях залишаємо** — не прибирати, лише зменшувати.
+- Формат: `<img src="../.gitbook/assets/item_name.png" alt="Назва" data-size="line"> Назва` в тій самій клітинці, що й текст.
+- GitBook **не** поважає `width="24"` у таблицях (іконка лишається величезною). **`data-size="line"`** — єдиний правильний inline-розмір.
+- **Ніколи** `data-size="original"` і голий `![](path)` для предметів у таблицях — рендериться на всю клітинку.
 
 ### Крок 5 — Не писати назви скриптів гравцю
 

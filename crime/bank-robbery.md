@@ -40,11 +40,11 @@ icon: building-columns
 
 | Предмет | Fleeca | Paleto | Pacific |
 | --- | --- | --- | --- |
-| <img src="../.gitbook/assets/hack_card.png" alt="Підроблена картка" width="24"> Підроблена картка | ✅ Сейф + панель | ✅ Сейф + термінал | ✅ Двері сейфу |
-| <img src="../.gitbook/assets/hack_usb.png" alt="Фантомний USB" width="24"> Фантомний USB | — | ✅ Камери, ПК | ✅ Двері, офіси, підвал |
-| <img src="../.gitbook/assets/large_drill.png" alt="Великий бур" width="24"> Великий бур | ✅ Депозитні комірки | ✅ Депозитні комірки | ✅ Депозитні комірки |
-| <p>Синя ключ-картка</p> | — | — | ✅ Вхід у підвал |
-| <img src="../.gitbook/assets/thermite.png" alt="Терміт" width="24"> Терміт | (резервний вхід) | — | — |
+| <img src="../.gitbook/assets/hack_card.png" alt="Підроблена картка" data-size="line"> Підроблена картка | ✅ Сейф + панель | ✅ Сейф + термінал | ✅ Двері сейфу |
+| <img src="../.gitbook/assets/hack_usb.png" alt="Фантомний USB" data-size="line"> Фантомний USB | — | ✅ Камери, ПК | ✅ Двері, офіси, підвал |
+| <img src="../.gitbook/assets/large_drill.png" alt="Великий бур" data-size="line"> Великий бур | ✅ Депозитні комірки | ✅ Депозитні комірки | ✅ Депозитні комірки |
+| <img src="../.gitbook/assets/blue_keycard.png" alt="Синя ключ-картка" data-size="line"> Синя ключ-картка | — | — | ✅ Вхід у підвал |
+| <img src="../.gitbook/assets/thermite.png" alt="Терміт" data-size="line"> Терміт | (резервний вхід) | — | — |
 
 {% hint style="info" %}
 **Фантомний USB** має **міцність** — кожен злам зношує приблизно **20%** (≈5 використань). **Підроблена картка** псується з часом (термін придатності).
@@ -75,7 +75,7 @@ icon: building-columns
 
 | Тип | Вміст |
 | --- | --- |
-| Візок / пачка | Мічені купюри або <img src="../.gitbook/assets/gold_bar.png" alt="золотий злиток" width="24"> золотий злиток |
+| Візок / пачка | Мічені купюри або <img src="../.gitbook/assets/gold_bar.png" alt="золотий злиток" data-size="line"> золотий злиток |
 | Депозитна комірка | $20k–30k + рідкісні предмети |
 
 ---

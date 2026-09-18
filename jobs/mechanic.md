@@ -61,24 +61,24 @@ icon: wrench
 
 | | Деталь у планшеті | Впливає на | Деградація з | ~Знос | Що ставити | К-сть |
 | --- | --- | --- | --- | --- | --- | --- |
-| <img src="../.gitbook/assets/engine_oil.png" width="24"> | Моторне масло | Тяга, макс. швидкість | **&lt; 20%** | ~700 км | Моторне масло | **1** |
-| <img src="../.gitbook/assets/air_filter.png" width="24"> | Повітряний фільтр | Тяга, макс. швидкість (з маслом) | **&lt; 20%** | ~1 250 км | Повітряний фільтр | **1** |
-| <img src="../.gitbook/assets/spark_plug.png" width="24"> | Свічки запалювання | Розгін | **&lt; 45%** | ~3 750 км | Свічка запалювання | **4** |
-| <img src="../.gitbook/assets/clutch_replacement.png" width="24"> | Зчеплення | Перемикання передач | **&lt; 55%** | ~7 500 км | Заміна зчеплення | **1** |
-| <img src="../.gitbook/assets/brakepad_replacement.png" width="24"> | Гальмівні колодки | Гальмування | **&lt; 60%** | ~3 750 км | Заміна гальмівних колодок | **4** |
-| <img src="../.gitbook/assets/suspension_parts.png" width="24"> | Підвіска | Стабільність, крени | **&lt; 60%** | ~6 250 км | Деталі підвіски | **1** |
-| <img src="../.gitbook/assets/tyre_replacement.png" width="24"> | Шини | Зчеплення | **&lt; 50%** | ~1 250 км | Заміна шин | **4** |
+| <img src="../.gitbook/assets/engine_oil.png" data-size="line"> | Моторне масло | Тяга, макс. швидкість | **&lt; 20%** | ~700 км | Моторне масло | **1** |
+| <img src="../.gitbook/assets/air_filter.png" data-size="line"> | Повітряний фільтр | Тяга, макс. швидкість (з маслом) | **&lt; 20%** | ~1 250 км | Повітряний фільтр | **1** |
+| <img src="../.gitbook/assets/spark_plug.png" data-size="line"> | Свічки запалювання | Розгін | **&lt; 45%** | ~3 750 км | Свічка запалювання | **4** |
+| <img src="../.gitbook/assets/clutch_replacement.png" data-size="line"> | Зчеплення | Перемикання передач | **&lt; 55%** | ~7 500 км | Заміна зчеплення | **1** |
+| <img src="../.gitbook/assets/brakepad_replacement.png" data-size="line"> | Гальмівні колодки | Гальмування | **&lt; 60%** | ~3 750 км | Заміна гальмівних колодок | **4** |
+| <img src="../.gitbook/assets/suspension_parts.png" data-size="line"> | Підвіска | Стабільність, крени | **&lt; 60%** | ~6 250 км | Деталі підвіски | **1** |
+| <img src="../.gitbook/assets/tyre_replacement.png" data-size="line"> | Шини | Зчеплення | **&lt; 50%** | ~1 250 км | Заміна шин | **4** |
 
 ### EV — що від чого, яка запчастина
 
 | | Деталь у планшеті | Впливає на | Деградація з | ~Знос | Що ставити | К-сть |
 | --- | --- | --- | --- | --- | --- | --- |
-| <img src="../.gitbook/assets/ev_coolant.png" width="24"> | Охолоджувач електромобіля | Тяга, макс. швидкість (з електромотором) | **&lt; 20%** | ~7 500 км | Охолоджувач електромобіля | **1** |
-| <img src="../.gitbook/assets/ev_motor.png" width="24"> | Електродвигун | Тяга, макс. швидкість (з охолоджувачем) | **&lt; 20%** | ~25 000 км | Електродвигун | **1** |
-| <img src="../.gitbook/assets/ev_battery.png" width="24"> | Акумулятор електромобіля | Розгін | **&lt; 45%** | ~15 625 км | Акумулятор електромобіля | **1** |
-| <img src="../.gitbook/assets/brakepad_replacement.png" width="24"> | Гальмівні колодки | Гальмування | **&lt; 60%** | ~3 750 км | Заміна гальмівних колодок | **4** |
-| <img src="../.gitbook/assets/suspension_parts.png" width="24"> | Підвіска | Стабільність | **&lt; 60%** | ~6 250 км | Деталі підвіски | **1** |
-| <img src="../.gitbook/assets/tyre_replacement.png" width="24"> | Шини | Зчеплення | **&lt; 50%** | ~1 250 км | Заміна шин | **4** |
+| <img src="../.gitbook/assets/ev_coolant.png" data-size="line"> | Охолоджувач електромобіля | Тяга, макс. швидкість (з електромотором) | **&lt; 20%** | ~7 500 км | Охолоджувач електромобіля | **1** |
+| <img src="../.gitbook/assets/ev_motor.png" data-size="line"> | Електродвигун | Тяга, макс. швидкість (з охолоджувачем) | **&lt; 20%** | ~25 000 км | Електродвигун | **1** |
+| <img src="../.gitbook/assets/ev_battery.png" data-size="line"> | Акумулятор електромобіля | Розгін | **&lt; 45%** | ~15 625 км | Акумулятор електромобіля | **1** |
+| <img src="../.gitbook/assets/brakepad_replacement.png" data-size="line"> | Гальмівні колодки | Гальмування | **&lt; 60%** | ~3 750 км | Заміна гальмівних колодок | **4** |
+| <img src="../.gitbook/assets/suspension_parts.png" data-size="line"> | Підвіска | Стабільність | **&lt; 60%** | ~6 250 км | Деталі підвіски | **1** |
+| <img src="../.gitbook/assets/tyre_replacement.png" data-size="line"> | Шини | Зчеплення | **&lt; 50%** | ~1 250 км | Заміна шин | **4** |
 
 ### Алгоритм ТО для механіка
 

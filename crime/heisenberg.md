@@ -34,17 +34,17 @@ icon: flask
 
 | Предмет | Призначення |
 | --- | --- |
-| <img src="../.gitbook/assets/kq_meth_lab_kit.png" alt="Набір для приготування метамфетаміну" width="24"> Набір для приготування метамфетаміну | Встановлюється у фургоні, без нього варіння неможливе |
+| <img src="../.gitbook/assets/kq_meth_lab_kit.png" alt="Набір для приготування метамфетаміну" data-size="line"> Набір для приготування метамфетаміну | Встановлюється у фургоні, без нього варіння неможливе |
 
 ### Хімікати (рецепт)
 
 | Предмет | Де взяти |
 | --- | --- |
-| <img src="../.gitbook/assets/kq_ammonia.png" alt="Амоніак" width="24"> Амоніак | Цистерни (Humane Labs, доки) — **4 одиниці** з цистерни, поповнення ~20 хв |
-| <img src="../.gitbook/assets/kq_acetone.png" alt="Ацетон" width="24"> Ацетон | Збір на точках карти |
-| <img src="../.gitbook/assets/kq_ethanol.png" alt="Етанол" width="24"> Етанол | Збір / покупка IC |
-| <img src="../.gitbook/assets/kq_meth_pills.png" alt="Псевдоефедрин" width="24"> Псевдоефедрин | Аптеки / крайм-ринок IC |
-| <img src="../.gitbook/assets/kq_lithium.png" alt="Літієвий пакет" width="24"> Літієвий пакет | Купи **старих акумуляторів** на точках збору |
+| <img src="../.gitbook/assets/kq_ammonia.png" alt="Амоніак" data-size="line"> Амоніак | Цистерни (Humane Labs, доки) — **4 одиниці** з цистерни, поповнення ~20 хв |
+| <img src="../.gitbook/assets/kq_acetone.png" alt="Ацетон" data-size="line"> Ацетон | Збір на точках карти |
+| <img src="../.gitbook/assets/kq_ethanol.png" alt="Етанол" data-size="line"> Етанол | Збір / покупка IC |
+| <img src="../.gitbook/assets/kq_meth_pills.png" alt="Псевдоефедрин" data-size="line"> Псевдоефедрин | Аптеки / крайм-ринок IC |
+| <img src="../.gitbook/assets/kq_lithium.png" alt="Літієвий пакет" data-size="line"> Літієвий пакет | Купи **старих акумуляторів** на точках збору |
 
 ### Захист
 
@@ -89,9 +89,9 @@ icon: flask
 
 | Чистота | Продукт | Ефект (орієнтовно) |
 | --- | --- | --- |
-| 40%+ | <img src="../.gitbook/assets/kq_meth_low.png" alt="Низька якість" width="24"> Низька якість | +броня, −здоров’я, витривалість |
-| 75%+ | <img src="../.gitbook/assets/kq_meth_mid.png" alt="Середня якість" width="24"> Середня якість | Стабільніший ефект, менше шкоди |
-| 95%+ | <img src="../.gitbook/assets/kq_meth_high.png" alt="Висока якість" width="24"> Висока якість | Максимальний ефект, мінімум побічних |
+| 40%+ | <img src="../.gitbook/assets/kq_meth_low.png" alt="Низька якість" data-size="line"> Низька якість | +броня, −здоров’я, витривалість |
+| 75%+ | <img src="../.gitbook/assets/kq_meth_mid.png" alt="Середня якість" data-size="line"> Середня якість | Стабільніший ефект, менше шкоди |
+| 95%+ | <img src="../.gitbook/assets/kq_meth_high.png" alt="Висока якість" data-size="line"> Висока якість | Максимальний ефект, мінімум побічних |
 
 {% hint style="warning" %}
 **Неправильна температура + літій** може **вибухнути** фургон (якщо увімкнено на сервері). Не додавайте літій при перегріві.
