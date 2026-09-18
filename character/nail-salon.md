@@ -12,10 +12,10 @@ icon: hand-sparkles
 | Параметр | Значення |
 | --- | --- |
 | Локація | **Південний LS** (район Strawberry / Davis) |
-| Бліп на карті | ![](../.gitbook/assets/blips/495.png) **«Салон нігтів»** |
+| Бліп на карті | <img src="../.gitbook/assets/nailshop_blip.png" alt="Салон нігтів" width="32"> **«Салон нігтів»** |
 | Орієнтир | Вулиця біля салонів краси, південний LS |
 
-На мапі шукайте бліп ![](../.gitbook/assets/blips/495.png) — він веде прямо до входу.
+На мапі шукайте бліп <img src="../.gitbook/assets/nailshop_blip.png" alt="Салон нігтів" data-size="line"> — він веде прямо до входу.
 
 ---
 
