@@ -62,15 +62,15 @@ icon: cannabis
 
 ### Гровінг у горщику
 
-| Сорт | Ріст (база) | ~У тенті | Полив не рідше ніж | Вікно збору після дозрівання |
-| --- | --- | --- | --- | --- |
-| **OG Kush** | **48 год** | ~40 год | кожні **2 год** | **3 год** |
-| **White Widow** | **54 год** | ~45 год | кожні **7 год** | **1 год** |
-| **Purple Haze** | **50 год** | ~45 год | кожні **12 год** | **20 хв** ⚠️ |
-| **Blue Dream** | **24 год** | ~20 год | кожні **8 год** | **3 год** |
-| **AK47** | **24 год** | ~20 год | кожні **8 год** | **1 год** |
-| **Amnesia** | **12 год** | ~10 год | кожні **2 год** | **1 год** |
-| **MAC1** | **~5 год** | ~4 год | кожні **2 год** | **2 год** |
+| | Сорт | Ріст (база) | ~У тенті | Полив не рідше ніж | Вікно збору після дозрівання |
+| --- | --- | --- | --- | --- | --- |
+| <img src="../.gitbook/assets/kq_weed_brick_og_kush.png" alt="Брикет OG Kush" data-size="line"> | **OG Kush** | **48 год** | ~40 год | кожні **2 год** | **3 год** |
+| <img src="../.gitbook/assets/kq_weed_brick_white_widow.png" alt="Брикет White Widow" data-size="line"> | **White Widow** | **54 год** | ~45 год | кожні **7 год** | **1 год** |
+| <img src="../.gitbook/assets/kq_weed_brick_purple_haze.png" alt="Брикет Purple Haze" data-size="line"> | **Purple Haze** | **50 год** | ~45 год | кожні **12 год** | **20 хв** ⚠️ |
+| <img src="../.gitbook/assets/kq_weed_brick_blue_dream.png" alt="Брикет Blue Dream" data-size="line"> | **Blue Dream** | **24 год** | ~20 год | кожні **8 год** | **3 год** |
+| <img src="../.gitbook/assets/weed_ak47_bag.png" alt="Брикет AK47" data-size="line"> | **AK47** | **24 год** | ~20 год | кожні **8 год** | **1 год** |
+| <img src="../.gitbook/assets/weed_amnesia_bag.png" alt="Брикет Amnesia" data-size="line"> | **Amnesia** | **12 год** | ~10 год | кожні **2 год** | **1 год** |
+| <img src="../.gitbook/assets/weed_mac1_bag.png" alt="Брикет MAC1" data-size="line"> | **MAC1** | **~5 год** | ~4 год | кожні **2 год** | **2 год** |
 
 #### Як не пропустити цикл
 
