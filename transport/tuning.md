@@ -62,9 +62,9 @@ icon: wrench
 
 | Рівень | Іконка | Приріст швидкості | Що дає (RP) | Ціна деталі в Benny's* |
 | --- | --- | --- | --- | --- |
-| **Stage 1** | <img src="../.gitbook/assets/stage1.png" data-size="line"> | **+5%** | Вуличний ECU: м'якший лімітер, живіша педаль | **100 000$** |
-| **Stage 2** | <img src="../.gitbook/assets/stage2.png" data-size="line"> | **+10%** | Спортивна прошивка, інша логіка передач | **1 000 000$** |
-| **Stage 3** | <img src="../.gitbook/assets/stage3.png" data-size="line"> | **+15%** | Трековий софт, максимум із штатного мотора | за наявністю на складі† |
+| **Stage 1** | <img src="../.gitbook/assets/stage1.png" data-size="line"> **+5%** | Вуличний ECU: м'якший лімітер, живіша педаль | **100 000$** |
+| **Stage 2** | <img src="../.gitbook/assets/stage2.png" data-size="line"> **+10%** | Спортивна прошивка, інша логіка передач | **1 000 000$** |
+| **Stage 3** | <img src="../.gitbook/assets/stage3.png" data-size="line"> **+15%** | Трековий софт, максимум із штатного мотора | за наявністю на складі† |
 
 \*Ціна **комплектуючої** з вітрини магазину Benny's (розділ «Кастомний тюнінг»). **+ робота механіка** в рахунку планшета.
 
@@ -80,8 +80,8 @@ icon: wrench
 
 | Мотор | Іконка | Для кого | Ціна деталі в Benny's* |
 | --- | --- | --- | --- |
-| **2GT-JDM** | <img src="../.gitbook/assets/2jzgte.png" data-size="line"> | Авто з топом **&lt; ~330 км/год**; культовий звук | за наявністю на складі† |
-| **V6 3.3L** | <img src="../.gitbook/assets/v6_engine.png" data-size="line"> | Базові та середні авто **&lt; ~270 км/год** | **500 000$** |
+| **2GT-JDM** | <img src="../.gitbook/assets/2jzgte.png" data-size="line"> Авто з топом **&lt; ~330 км/год**; культовий звук | за наявністю на складі† |
+| **V6 3.3L** | <img src="../.gitbook/assets/v6_engine.png" data-size="line"> Базові та середні авто **&lt; ~270 км/год** | **500 000$** |
 
 \*Деталь з магазину + робота механіка окремо. †2GT-JDM — рідкісна поставка, ціна за домовленістю з СТО.
 
@@ -101,9 +101,9 @@ Swap **не ставиться** на всі моделі: донат-пак, г
 
 | Тип | Іконка | Навіщо | Ціна деталі в Benny's |
 | --- | --- | --- | --- |
-| **Задній (RWD)** | <img src="../.gitbook/assets/rwd_drivetrain.png" data-size="line"> | Занос, «бендитський» стиль, погоня | **50 000$** |
-| **Повний (AWD)** | <img src="../.gitbook/assets/awd_drivetrain.png" data-size="line"> | Старт з місця, погоня по мокрому | **500 000$** |
-| **Передній (FWD)** | <img src="../.gitbook/assets/fwd_drivetrain.png" data-size="line"> | Економ, місто, FWD-змагання | **50 000$** |
+| **Задній (RWD)** | <img src="../.gitbook/assets/rwd_drivetrain.png" data-size="line"> Занос, «бендитський» стиль, погоня | **50 000$** |
+| **Повний (AWD)** | <img src="../.gitbook/assets/awd_drivetrain.png" data-size="line"> Старт з місця, погоня по мокрому | **500 000$** |
+| **Передній (FWD)** | <img src="../.gitbook/assets/fwd_drivetrain.png" data-size="line"> Економ, місто, FWD-змагання | **50 000$** |
 
 + робота механіка в рахунку планшета.
 
@@ -133,9 +133,9 @@ Swap **не ставиться** на всі моделі: донат-пак, г
 
 | Категорія | Іконка | Ефект | Ціна деталі в Benny's |
 | --- | --- | --- | --- |
-| **Турбонаддув** | <img src="../.gitbook/assets/turbocharger.png" data-size="line"> | Класичне турбо GTA + приріст тяги | **100 000$** |
-| **Керамічні гальма** | <img src="../.gitbook/assets/ceramic_brakes.png" data-size="line"> | Сильніше гальмування під навантаженням | **75 000$** |
-| **Спортивні шини** | <img src="../.gitbook/assets/slick_tyres.png" data-size="line"> | Максимум зчеплення на сухому | **200 000$** |
+| **Турбонаддув** | <img src="../.gitbook/assets/turbocharger.png" data-size="line"> Класичне турбо GTA + приріст тяги | **100 000$** |
+| **Керамічні гальма** | <img src="../.gitbook/assets/ceramic_brakes.png" data-size="line"> Сильніше гальмування під навантаженням | **75 000$** |
+| **Спортивні шини** | <img src="../.gitbook/assets/slick_tyres.png" data-size="line"> Максимум зчеплення на сухому | **200 000$** |
 | Напівспортивні | semi-slick | Баланс дорога / трек | **20 000$** |
 | Зимові / offroad | offroad | Краще на бездоріжжі ([off-road](off-road.md)) | **25 000$** |
 
@@ -191,8 +191,8 @@ Swap **не ставиться** на всі моделі: донат-пак, г
 
 | Крок | Іконка | Дія | Ціна деталі в Benny's |
 | --- | --- | --- | --- |
-| 1. Встановлення | <img src="../.gitbook/assets/nitrous_install_kit.png" data-size="line"> | Комплект нітро (механік, один раз) | **500 000$** |
-| 2. Заправка | <img src="../.gitbook/assets/nitrous_bottle.png" data-size="line"> | Балон — до **3 шт.** на авто | **50 000$** / шт. |
+| 1. Встановлення | <img src="../.gitbook/assets/nitrous_install_kit.png" data-size="line"> Комплект нітро (механік, один раз) | **500 000$** |
+| 2. Заправка | <img src="../.gitbook/assets/nitrous_bottle.png" data-size="line"> Балон — до **3 шт.** на авто | **50 000$** / шт. |
 | 3. У дорозі | — | **`RMENU`** — прискорення ~**10 с** на балон | — |
 
 + робота механіка на встановлення системи.
@@ -267,26 +267,26 @@ Swap **не ставиться** на всі моделі: донат-пак, г
 
 ### Бензин / дизель (ДВЗ)
 
-| | Деталь | Впливає на | Деградація з | ~Знос | Запчастина | К-сть |
+| Деталь | Впливає на | Деградація з | ~Знос | Запчастина | К-сть |
 | --- | --- | --- | --- | --- | --- | --- |
-| <img src="../.gitbook/assets/engine_oil.png" data-size="line"> | **Моторне масло** | Тяга, максимальна швидкість, звук мотора | **&lt; 20%** | ~700 км | Моторне масло | **1** |
-| <img src="../.gitbook/assets/air_filter.png" data-size="line"> | **Повітряний фільтр** | Тяга, максимальна швидкість (разом із маслом) | **&lt; 20%** | ~1 250 км | Повітряний фільтр | **1** |
-| <img src="../.gitbook/assets/spark_plug.png" data-size="line"> | **Свічки запалювання** | Розгін, відгук педалі | **&lt; 45%** | ~3 750 км | Свічка запалювання | **4** |
-| <img src="../.gitbook/assets/clutch_replacement.png" data-size="line"> | **Зчеплення** | Швидкість перемикання передач | **&lt; 55%** | ~7 500 км | Заміна зчеплення | **1** |
-| <img src="../.gitbook/assets/brakepad_replacement.png" data-size="line"> | **Гальмівні колодки** | Сила гальмування, гальмівний шлях | **&lt; 60%** | ~3 750 км | Заміна гальмівних колодок | **4** |
-| <img src="../.gitbook/assets/suspension_parts.png" data-size="line"> | **Підвіска** | Стабільність, крени, жорсткість ходової | **&lt; 60%** | ~6 250 км | Деталі підвіски | **1** |
-| <img src="../.gitbook/assets/tyre_replacement.png" data-size="line"> | **Шини** | Зчеплення, керованість, занос | **&lt; 50%** | ~1 250 км | Заміна шин | **4** |
+| <img src="../.gitbook/assets/engine_oil.png" data-size="line"> **Моторне масло** | Тяга, максимальна швидкість, звук мотора | **&lt; 20%** | ~700 км | Моторне масло | **1** |
+| <img src="../.gitbook/assets/air_filter.png" data-size="line"> **Повітряний фільтр** | Тяга, максимальна швидкість (разом із маслом) | **&lt; 20%** | ~1 250 км | Повітряний фільтр | **1** |
+| <img src="../.gitbook/assets/spark_plug.png" data-size="line"> **Свічки запалювання** | Розгін, відгук педалі | **&lt; 45%** | ~3 750 км | Свічка запалювання | **4** |
+| <img src="../.gitbook/assets/clutch_replacement.png" data-size="line"> **Зчеплення** | Швидкість перемикання передач | **&lt; 55%** | ~7 500 км | Заміна зчеплення | **1** |
+| <img src="../.gitbook/assets/brakepad_replacement.png" data-size="line"> **Гальмівні колодки** | Сила гальмування, гальмівний шлях | **&lt; 60%** | ~3 750 км | Заміна гальмівних колодок | **4** |
+| <img src="../.gitbook/assets/suspension_parts.png" data-size="line"> **Підвіска** | Стабільність, крени, жорсткість ходової | **&lt; 60%** | ~6 250 км | Деталі підвіски | **1** |
+| <img src="../.gitbook/assets/tyre_replacement.png" data-size="line"> **Шини** | Зчеплення, керованість, занос | **&lt; 50%** | ~1 250 км | Заміна шин | **4** |
 
 ### Електромобілі (EV)
 
-| | Деталь | Впливає на | Деградація з | ~Знос | Запчастина | К-сть |
+| Деталь | Впливає на | Деградація з | ~Знос | Запчастина | К-сть |
 | --- | --- | --- | --- | --- | --- | --- |
-| <img src="../.gitbook/assets/ev_coolant.png" data-size="line"> | **Охолоджувач електромобіля** | Тяга, максималка (разом із електромотором) | **&lt; 20%** | ~7 500 км | Охолоджувач електромобіля | **1** |
-| <img src="../.gitbook/assets/ev_motor.png" data-size="line"> | **Електродвигун** | Тяга, максималка (разом із охолоджувачем) | **&lt; 20%** | ~25 000 км | Електродвигун | **1** |
-| <img src="../.gitbook/assets/ev_battery.png" data-size="line"> | **Акумулятор електромобіля** | Розгін, відгук педалі | **&lt; 45%** | ~15 625 км | Акумулятор електромобіля | **1** |
-| <img src="../.gitbook/assets/brakepad_replacement.png" data-size="line"> | **Гальмівні колодки** | Гальмування | **&lt; 60%** | ~3 750 км | Заміна гальмівних колодок | **4** |
-| <img src="../.gitbook/assets/suspension_parts.png" data-size="line"> | **Підвіска** | Стабільність, крени | **&lt; 60%** | ~6 250 км | Деталі підвіски | **1** |
-| <img src="../.gitbook/assets/tyre_replacement.png" data-size="line"> | **Шини** | Зчеплення | **&lt; 50%** | ~1 250 км | Заміна шин | **4** |
+| <img src="../.gitbook/assets/ev_coolant.png" data-size="line"> **Охолоджувач електромобіля** | Тяга, максималка (разом із електромотором) | **&lt; 20%** | ~7 500 км | Охолоджувач електромобіля | **1** |
+| <img src="../.gitbook/assets/ev_motor.png" data-size="line"> **Електродвигун** | Тяга, максималка (разом із охолоджувачем) | **&lt; 20%** | ~25 000 км | Електродвигун | **1** |
+| <img src="../.gitbook/assets/ev_battery.png" data-size="line"> **Акумулятор електромобіля** | Розгін, відгук педалі | **&lt; 45%** | ~15 625 км | Акумулятор електромобіля | **1** |
+| <img src="../.gitbook/assets/brakepad_replacement.png" data-size="line"> **Гальмівні колодки** | Гальмування | **&lt; 60%** | ~3 750 км | Заміна гальмівних колодок | **4** |
+| <img src="../.gitbook/assets/suspension_parts.png" data-size="line"> **Підвіска** | Стабільність, крени | **&lt; 60%** | ~6 250 км | Деталі підвіски | **1** |
+| <img src="../.gitbook/assets/tyre_replacement.png" data-size="line"> **Шини** | Зчеплення | **&lt; 50%** | ~1 250 км | Заміна шин | **4** |
 
 ### Як зробити ТО
 
