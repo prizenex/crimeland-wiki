@@ -31,6 +31,7 @@
 * [Дріфт](transport/drift.md)
 * [Ринок](transport/market.md)
 * [Причіпи](transport/trailers.md)
+* [Бездоріжжя](transport/off-road.md)
 
 ## Персонаж
 
@@ -40,6 +41,7 @@
 * [Спорт](character/sport.md)
 * [Зміна зовнішності](character/appearance.md)
 * [Одяг](character/clothing.md)
+* [Домашні улюбленці](character/pets.md)
 * [Тату-салон](character/tattoo-salon.md)
 * [Салон нігтів](character/nail-salon.md)
 * [Шлюб](character/marriage.md)
