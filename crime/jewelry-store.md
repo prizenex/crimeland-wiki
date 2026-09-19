@@ -7,7 +7,7 @@ icon: gem
 
 Ювелірні магазини є одним із найприбутковіших видів кримінальної діяльності на CrimeLand. Гравцям доступно два варіанти пограбування, які відрізняються складністю, вимогами та рівнем ризику.
 
-Доступні наступні пограбування:
+На мапі (`P`) обидві точки позначені бліпом ![](../.gitbook/assets/blips/617.png) **«Ванджеліко»**.
 
 Доступні два пограбування:
 
@@ -16,7 +16,7 @@ icon: gem
 
 ## Мала ювелірка
 
-Мала ювелірка розташована в центрі міста та доступна для пограбування без необхідності проведення переговорів із правоохоронними органами.
+![](../.gitbook/assets/blips/617.png) Мала ювелірка — **центр міста** (район Legion). Доступна для пограбування без переговорів із правоохоронними органами.
 
 Для початку пограбування необхідно підійти до будь-якої вітрини та скористатися взаємодією через ALT-меню. Після цього потрібно розбити вітрину відповідним інструментом або зброєю та забрати коштовності.
 
@@ -55,15 +55,15 @@ icon: gem
 
 | Предмет | Вартість |
 | --- | --- |
-| Rolex | $8,000 |
-| Diamond Necklace | $7,500 |
-| Diamond Ring | $3,500 |
-| Luxurious Watch | $3,000 |
-| Gold Chain | $1,800 |
-| 10K Gold Chain | $1,100 |
+| <img src="../.gitbook/assets/rolex.png" alt="Rolex" data-size="line"> **Rolex** | **$8 000** |
+| <img src="../.gitbook/assets/diamond_necklace.png" alt="Diamond Necklace" data-size="line"> **Diamond Necklace** | **$7 500** |
+| <img src="../.gitbook/assets/diamond_ring.png" alt="Diamond Ring" data-size="line"> **Diamond Ring** | **$3 500** |
+| <img src="../.gitbook/assets/luxurious_watch.png" alt="Luxurious Watch" data-size="line"> **Luxurious Watch** | **$3 000** |
+| <img src="../.gitbook/assets/goldchain.png" alt="Gold Chain" data-size="line"> **Gold Chain** | **$1 800** |
+| <img src="../.gitbook/assets/tenkgoldchain.png" alt="10K Gold Chain" data-size="line"> **10K Gold Chain** | **$1 100** |
 ## Велика ювелірка (Vangelico)
 
-Vangelico — найбільше та найскладніше пограбування ювелірного магазину на сервері.
+![](../.gitbook/assets/blips/617.png) **Vangelico** — найбільше та найскладніше пограбування ювелірного магазину на сервері (Rockford Hills, Portola Drive).
 
 На відміну від малої ювелірки, дане пограбування передбачає повноцінну RP-взаємодію між злочинцями та правоохоронними органами.
 
@@ -113,22 +113,20 @@ Vangelico — найбільше та найскладніше пограбув�
 
 | Предмет | Вартість |
 | --- | --- |
-| Diamonds Box | $10,000 |
-| Rolex | $8,000 |
-| Diamond Necklace | $7,500 |
-| Diamond Ring | $3,500 |
-| Luxurious Watch | $3,000 |
-| Gold Chain | $1,800 |
-| 10K Gold Chain | $1,100 |
-### Рідкісні предмети
-
-Окремі вітрини можуть містити особливо цінні предмети.
-
-Найдорожчим предметом, який можна отримати під час пограбування ювелірних магазинів, є:
+| <img src="../.gitbook/assets/diamonds_box.png" alt="Diamonds Box" data-size="line"> **Diamonds Box** | **$10 000** |
+| <img src="../.gitbook/assets/rolex.png" alt="Rolex" data-size="line"> **Rolex** | **$8 000** |
+| <img src="../.gitbook/assets/diamond_necklace.png" alt="Diamond Necklace" data-size="line"> **Diamond Necklace** | **$7 500** |
+| <img src="../.gitbook/assets/diamond_ring.png" alt="Diamond Ring" data-size="line"> **Diamond Ring** | **$3 500** |
 
 | Предмет | Вартість |
 | --- | --- |
-| Diamonds Box | $10,000 |
+| <img src="../.gitbook/assets/luxurious_watch.png" alt="Luxurious Watch" data-size="line"> **Luxurious Watch** | **$3 000** |
+| <img src="../.gitbook/assets/goldchain.png" alt="Gold Chain" data-size="line"> **Gold Chain** | **$1 800** |
+| <img src="../.gitbook/assets/tenkgoldchain.png" alt="10K Gold Chain" data-size="line"> **10K Gold Chain** | **$1 100** |
+
+### Рідкісні предмети
+
+Найдорожча здобич — <img src="../.gitbook/assets/diamonds_box.png" alt="Diamonds Box" data-size="line"> **Diamonds Box** (**$10 000**). Окремі вітрини можуть містити лише один такий предмет.
 ## Порівняння ювелірок
 | Параметр | Мала | Велика |
 | --- | --- | --- |

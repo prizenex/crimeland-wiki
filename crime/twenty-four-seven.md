@@ -87,22 +87,26 @@ $3,000 – $6,000
 
 | Предмет | Шанс |
 | --- | --- |
-| Кутова шліфувальна машина | 5% |
-| Плазмовий різак | 2% |
-| Люксовий годинник | 7% |
-| Підроблена кредитна картка | 10% |
-| Золотий ланцюжок | 20% |
-| Золотий ланцюжок 10к | 20% |
-| Crypto флешка | 15% |
-| Пістолет | 15% |
+| <img src="../.gitbook/assets/angle_grinder.png" alt="Кутова шліфувальна машина" data-size="line"> **Кутова шліфувальна машина** | 5% |
+| <img src="../.gitbook/assets/plasma_cutter.png" alt="Плазмовий різак" data-size="line"> **Плазмовий різак** | 2% |
+| <img src="../.gitbook/assets/luxurious_watch.png" alt="Люксовий годинник" data-size="line"> **Люксовий годинник** | 7% |
+| <img src="../.gitbook/assets/x_fakecredit.png" alt="Підроблена кредитна картка" data-size="line"> **Підроблена кредитна картка** | 10% |
+
+| Предмет | Шанс |
+| --- | --- |
+| <img src="../.gitbook/assets/goldchain.png" alt="Золотий ланцюжок" data-size="line"> **Золотий ланцюжок** | 20% |
+| <img src="../.gitbook/assets/tenkgoldchain.png" alt="Золотий ланцюжок 10к" data-size="line"> **Золотий ланцюжок 10к** | 20% |
+| <img src="../.gitbook/assets/cryptostick.png" alt="Крипто-стік" data-size="line"> **Крипто-стік** | 15% |
+| <img src="../.gitbook/assets/WEAPON_PISTOL.png" alt="Пістолет" data-size="line"> **Пістолет** | 15% |
+
 ## Додаткова нагорода
 
-Під час отримання Люксовий годинник та Підроблена кредитна картка існує додатковий шанс знайти:
+Під час отримання <img src="../.gitbook/assets/luxurious_watch.png" alt="Люксовий годинник" data-size="line"> **люксового годинника** або <img src="../.gitbook/assets/x_fakecredit.png" alt="Підроблена кредитна картка" data-size="line"> **підробленої кредитної картки** існує додатковий шанс знайти:
 
 | Предмет | Додаткова знахідка | Шанс |
 | --- | --- | --- |
-| Люксовий годинник | Золотий злиток | 20% |
-| Підроблена кредитна картка | Мiченi купюри 15–25 тис. | 20% |
+| <img src="../.gitbook/assets/luxurious_watch.png" alt="Люксовий годинник" data-size="line"> **Люксовий годинник** | <img src="../.gitbook/assets/gold_bar.png" alt="Золотий злиток" data-size="line"> **Золотий злиток** | 20% |
+| <img src="../.gitbook/assets/x_fakecredit.png" alt="Підроблена кредитна картка" data-size="line"> **Підроблена кредитна картка** | <img src="../.gitbook/assets/markedbills.png" alt="Мічені купюри" data-size="line"> **Мічені купюри** 15–25 тис. | 20% |
 
 ## Магазини гравців
 
