@@ -1,5 +1,5 @@
 ---
-description: В цьому розділі ви дізнаєтесь як приєднатись до сервера
+description: Як встановити FiveM, знайти GTA V на диску і зайти на CRIMELAND RP.
 icon: right-to-bracket
 ---
 
@@ -7,7 +7,7 @@ icon: right-to-bracket
 
 ### Встановлення FiveM
 
-Створіть пусту папку та завантажте в неї лаунчер [**FiveM**](https://runtime.fivem.net/client/FiveM.exe)
+Створіть пусту папку та завантажте в неї лаунчер [**FiveM**](https://runtime.fivem.net/client/FiveM.exe).
 
 {% hint style="warning" %}
 Якщо запустити лаунчер не з пустої папки, його вміст буде автоматично розпаковано в AppData.
@@ -17,28 +17,13 @@ icon: right-to-bracket
 Для гри на сервері рекомендовано використовувати SSD-накопичувач з \~50 гб вільного місця.
 {% endhint %}
 
-При першому запуску лаунчера Вам потрібно буде обрати місце розташування файлу GTA5.
+При першому запуску лаунчера вам потрібно буде обрати місце розташування файлу GTA5.
 
 #### Як знайти папку GTA V
 
-**Steam**
-
-1. Відкрийте Steam
-2. Бібліотека → **Grand Theft Auto V**
-3. ПКМ по грі → **Керування → Переглянути локальні файли**
-
-**Epic Games**
-
-1. Відкрийте Epic Games
-2. Бібліотека → три крапки біля GTA V
-3. **Керування**
-4. Натисніть іконку папки біля шляху встановлення
-
-**Rockstar Games Launcher**
-
-1. Налаштування
-2. Оберіть GTA V
-3. Натисніть **Open Folder / Відкрити папку гри**
+- **Steam** — відкрийте Steam → Бібліотека → Grand Theft Auto V → ПКМ по грі → Керування → Переглянути локальні файли.
+- **Epic Games** — відкрийте Epic Games → Бібліотека → три крапки біля GTA V → Керування → натисніть іконку папки біля шляху встановлення.
+- **Rockstar Games Launcher** — Налаштування → оберіть GTA V → Open Folder / Відкрити папку гри.
 
 {% hint style="danger" %}
 Перед запуском FiveM у вас має бути запущений Steam, незалежно від того, в якому лаунчері придбана GTA V.
@@ -46,7 +31,7 @@ icon: right-to-bracket
 
 ### Підключення до сервера
 
-Натисніть Play та в пошуку серверів введіть назву - [CRIMELAND RP](https://servers.fivem.net/servers/detail/a7gbre)
+Натисніть Play та в пошуку серверів введіть назву - [CRIMELAND RP](https://servers.fivem.net/servers/detail/a7gbre).
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
