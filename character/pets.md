@@ -63,9 +63,6 @@ icon: dog
 | <img src="../.gitbook/assets/pet-water.webp" alt="Вода / миска" width="36"> | **Вода / миска** | Відновлює **спрагу** |
 | <img src="../.gitbook/assets/pet-treat.webp" alt="Ласощі" width="36"> | **Ласощі** | Швидкий перекус, піднімає настрій |
 | <img src="../.gitbook/assets/pet-medkit.webp" alt="Аптечка" width="36"> | **Аптечка** | Лікування та **відродження** |
-
-| Іконка | Предмет | Для чого |
-| --- | --- | --- |
 | <img src="../.gitbook/assets/pet-ball.webp" alt="М’яч" width="36"> | **М’яч** | Гра «апорт» — росте **щастя** |
 | <img src="../.gitbook/assets/pet-leash.webp" alt="Повідок" width="36"> | **Повідок** | Контроль руху поруч із вами |
 | <img src="../.gitbook/assets/pet-bed.webp" alt="Ліжко" width="36"> | **Ліжко** | Відпочинок, відновлення витривалості |
