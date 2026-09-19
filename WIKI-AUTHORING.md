@@ -224,10 +224,12 @@ icon: font-awesome-icon-name
 | СКМ | `.gitbook/assets/inputs/mouse-mmb.svg` | колесо миші, «обрати місце» в AnimPos |
 | Клавіша | текст у `<kbd>` або «**TAB**» | звичайні бінди |
 
-Приклад у markdown (з `character/`):
+**Завжди inline і дрібні** — `<img ... data-size="line">`, ніколи `![](path)` і ніколи в таблиці. GitBook малює голий SVG у клітинці на всю ширину колонки. Не робіть таблицю «Кнопка | Дія» — кнопки миші вписуйте в речення.
+
+Приклад:
 
 ```markdown
-Натисніть **ПКМ** ![](../.gitbook/assets/inputs/mouse-rmb.svg) на гравця.
+Натисніть **ПКМ** <img src="../.gitbook/assets/inputs/mouse-rmb.svg" alt="ПКМ" data-size="line"> на гравця.
 ```
 
 Джерело SVG: `[glovo]/crimeland_onboarding/html/script.js` (`MOUSE_SVG`). У `crimeland_hud` лише **текстові** чіпи клавіш (`.keyhint-key`), без іконок миші.
