@@ -56,6 +56,7 @@
 
 ## Бізнес
 
+* [Огляд бізнесів](business/overview.md)
 * [Магазин 24/7](business/twenty-four-seven.md)
 * [АЗС](business/gas-station.md)
 * [Фабрика](business/factory.md)
