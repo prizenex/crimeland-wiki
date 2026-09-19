@@ -32,13 +32,13 @@ icon: dice
 
 | Предмет | Де використовується |
 | --- | --- |
-| <img src="../.gitbook/assets/hack_usb.png" alt="Фантомний USB" width="36"> Фантомний USB | Входи, електрощит, міні-сейф, комп’ютери |
-| <img src="../.gitbook/assets/hack_card.png" alt="Підроблена картка" width="36"> Підроблена картка | Службові двері, сейфові двері |
-| <img src="../.gitbook/assets/weapon_stickybomb.png" alt="Липка бомба" width="36"> Липка бомба | Каналізаційний вхід |
-| <img src="../.gitbook/assets/explosives.png" alt="Вибухівка" width="36"> Вибухівка | Головні двері сховища |
-| <img src="../.gitbook/assets/small_drill.png" alt="Малий бур" width="36"> Малий бур | Депозитні комірки (скриньки) |
-| <img src="../.gitbook/assets/casino_keycard.png" alt="Ключ-картка казино" width="36"> Ключ-картка казино | Тунельні термінали |
-| <img src="../.gitbook/assets/bag.png" alt="Сумка" width="36"> Сумка | Збір луту |
+| <img src="../.gitbook/assets/hack_usb.png" alt="Фантомний USB" width="36"> | Фантомний USB | Входи, електрощит, міні-сейф, комп’ютери |
+| <img src="../.gitbook/assets/hack_card.png" alt="Підроблена картка" width="36"> | Підроблена картка | Службові двері, сейфові двері |
+| <img src="../.gitbook/assets/weapon_stickybomb.png" alt="Липка бомба" width="36"> | Липка бомба | Каналізаційний вхід |
+| <img src="../.gitbook/assets/explosives.png" alt="Вибухівка" width="36"> | Вибухівка | Головні двері сховища |
+| <img src="../.gitbook/assets/small_drill.png" alt="Малий бур" width="36"> | Малий бур | Депозитні комірки (скриньки) |
+| <img src="../.gitbook/assets/casino_keycard.png" alt="Ключ-картка казино" width="36"> | Ключ-картка казино | Тунельні термінали |
+| <img src="../.gitbook/assets/bag.png" alt="Сумка" width="36"> | Сумка | Збір луту |
 
 ---
 
@@ -99,7 +99,7 @@ icon: dice
 | --- | --- |
 | Готівка (пачка) | ~$72 000 |
 | Готівка (візок) | ~$112 500 |
-| <img src="../.gitbook/assets/gold_bar.png" alt="Золото" width="36"> Золото (20% шанс) | 20–45 злитків |
+| <img src="../.gitbook/assets/gold_bar.png" alt="Золото" width="36"> | Золото (20% шанс) | 20–45 злитків |
 | Діаманти (10% шанс) | До 45 скриньок на візку |
 
 4. **Депозитні комірки** по периметру — малий бур: $20k–30k, документи, коштовності, інколи пістолет.

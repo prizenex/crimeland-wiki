@@ -25,9 +25,9 @@ icon: mortar-pestle
 
 ## Етап 1. Листя коки
 
-| Предмет | Опис |
-| --- | --- |
-| <img src="../.gitbook/assets/coca_leaf.png" alt="Листя коки" width="36"> Листя коки | Сировина для першої переробки |
+|   | Предмет | Опис |
+| - | --- | --- |
+| <img src="../.gitbook/assets/coca_leaf.png" alt="Листя коки" width="36"> | **Листя коки** | Сировина для першої переробки |
 
 **Звідки взяти:**
 
@@ -53,8 +53,8 @@ icon: mortar-pestle
 
 | Вклад | Результат |
 | --- | --- |
-| 1× листя коки | 1× <img src="../.gitbook/assets/cokebaggy.png" alt="пакет кокаїну" width="36"> пакет кокаїну |
-| 100× пакетів | 100× <img src="../.gitbook/assets/coke_brick.png" alt="цеглина кокаїну" width="36"> цеглина кокаїну |
+| 1× листя коки | 1× <img src="../.gitbook/assets/cokebaggy.png" alt="пакет кокаїну" data-size="line"> пакет кокаїну |
+| 100× пакетів | 100× <img src="../.gitbook/assets/coke_brick.png" alt="цеглина кокаїну" data-size="line"> цеглина кокаїну |
 
 {% hint style="info" %}
 Без власника зона **не переробляє** — спочатку [захопіть територію](territory-war.md) або домовтесь з контролюючою бандою IC.
