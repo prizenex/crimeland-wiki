@@ -71,7 +71,7 @@ icon: money-bill-transfer
 
 Для початку розбирання необхідно використати паяльну лампу<img src="../.gitbook/assets/blowtorch.png" alt="" data-size="line"> та запальничку<img src="../.gitbook/assets/lighter.png" alt="" data-size="line">
 
-| | Потрібний предмет | Нагорода |
+| Іконка | Потрібний предмет | Нагорода |
 | --- | --- | --- |
 | <img src="../.gitbook/assets/blowtorch.png" alt="Паяльна лампа" width="36"> | **Паяльна лампа** | <img src="../.gitbook/assets/atmpanel.png" alt="Панель банкомата x1" data-size="line"> Панель банкомата x1 |
 
@@ -79,7 +79,7 @@ icon: money-bill-transfer
 
 Після зняття зовнішньої панелі відкривається доступ до внутрішньої проводки.
 
-| | Нагорода |
+| Іконка | Нагорода |
 | --- | --- |
 | <img src="../.gitbook/assets/atmcables.png" alt="Кабелі банкомата x1" width="36"> | **Кабелі банкомата x1** |
 
@@ -87,7 +87,7 @@ icon: money-bill-transfer
 
 Фінальний етап розбирання банкомата.
 
-| | Нагорода |
+| Іконка | Нагорода |
 | --- | --- |
 | <img src="../.gitbook/assets/atmmotherboard.png" alt="Материнська плата банкомата x1" width="36"> | **Материнська плата банкомата x1** |
 

@@ -44,7 +44,7 @@ icon: briefcase
 
 ## Гайди
 
-| | Стаття |
+| Бліп | Стаття |
 | --- | --- |
 | ![](../.gitbook/assets/blips/52.png) Магазин | [twenty-four-seven.md](twenty-four-seven.md) |
 | ![](../.gitbook/assets/blips/361.png) АЗС | [gas-station.md](gas-station.md) |
