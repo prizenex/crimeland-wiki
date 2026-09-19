@@ -47,6 +47,7 @@ icon: briefcase
 | Бліп | Стаття |
 | --- | --- |
 | ![](../.gitbook/assets/blips/52.png) Магазин | [twenty-four-seven.md](twenty-four-seven.md) |
+| ![](../.gitbook/assets/blips/827.png) Кафе | [cafe.md](cafe.md) |
 | ![](../.gitbook/assets/blips/361.png) АЗС | [gas-station.md](gas-station.md) |
 | СТО | [auto-repair-shop.md](auto-repair-shop.md) |
 | Шоурум | [showroom.md](showroom.md) |
