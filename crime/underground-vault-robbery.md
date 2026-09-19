@@ -37,10 +37,10 @@ icon: vault
 
 | Предмет | Витрачається? | Навіщо |
 | --- | --- | --- |
-| <img src="../.gitbook/assets/bomb_c4.png" alt="C4" data-size="line"> C4 | ✅ Так | Підрив дверей сховища |
-| <img src="../.gitbook/assets/nylonrope.png" alt="Нейлонова мотузка" data-size="line"> Нейлонова мотузка | ✅ Так | Прикріпити трос до об’єкта / авто |
-| <img src="../.gitbook/assets/hack_usb.png" alt="Фантомний USB" data-size="line"> Фантомний USB | ✅ Так | Злам системи безпеки |
-| <img src="../.gitbook/assets/bag.png" alt="Сумка" data-size="line"> Сумка | ❌ Ні | Збір готівки |
+| <img src="../.gitbook/assets/bomb_c4.png" alt="C4" width="36"> C4 | ✅ Так | Підрив дверей сховища |
+| <img src="../.gitbook/assets/nylonrope.png" alt="Нейлонова мотузка" width="36"> Нейлонова мотузка | ✅ Так | Прикріпити трос до об’єкта / авто |
+| <img src="../.gitbook/assets/hack_usb.png" alt="Фантомний USB" width="36"> Фантомний USB | ✅ Так | Злам системи безпеки |
+| <img src="../.gitbook/assets/bag.png" alt="Сумка" width="36"> Сумка | ❌ Ні | Збір готівки |
 
 Закупівля: [магазин нелегальної електроніки](money-laundering.md#що-купити-до-старту) (LS, промзона) + мотузка в крайм-магазинах.
 

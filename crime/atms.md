@@ -29,13 +29,13 @@ icon: money-bill-transfer
 | Предмет                      | Кількість                                                                           |
 | ---------------------------- | ----------------------------------------------------------------------------------- |
 | Готівка                      | $500-$1,500                                                                         |
-| Зламана клавіатура           | <img src="../.gitbook/assets/broken_keypad.png" alt="1 шт." data-size="line"> 1 шт. |
-| Техно-брухт                  | <img src="../.gitbook/assets/techscrap.png" alt="1-8 шт." data-size="line"> 1-8 шт. |
-| Підроблена банківська картка | 1 шт. <img src="../.gitbook/assets/x_fakecredit.png" alt="" data-size="line">       |
-| Електронний набір            | 1 шт. <img src="../.gitbook/assets/electronickit.png" alt="" data-size="line">      |
-| Материнська плата банкомата  | 1 шт. <img src="../.gitbook/assets/atmmotherboard.png" alt="" data-size="line">     |
-| Кабелі банкомата             | 1-2 шт. <img src="../.gitbook/assets/atmcables.png" alt="" data-size="line">        |
-| Панель банкомата             | 1 шт. <img src="../.gitbook/assets/atmpanel.png" alt="" data-size="line">           |
+| Зламана клавіатура           | <img src="../.gitbook/assets/broken_keypad.png" alt="1 шт." width="36"> 1 шт. |
+| Техно-брухт                  | <img src="../.gitbook/assets/techscrap.png" alt="1-8 шт." width="36"> 1-8 шт. |
+| Підроблена банківська картка | 1 шт. <img src="../.gitbook/assets/x_fakecredit.png" alt="" width="36">       |
+| Електронний набір            | 1 шт. <img src="../.gitbook/assets/electronickit.png" alt="" width="36">      |
+| Материнська плата банкомата  | 1 шт. <img src="../.gitbook/assets/atmmotherboard.png" alt="" width="36">     |
+| Кабелі банкомата             | 1-2 шт. <img src="../.gitbook/assets/atmcables.png" alt="" width="36">        |
+| Панель банкомата             | 1 шт. <img src="../.gitbook/assets/atmpanel.png" alt="" width="36">           |
 
 {% hint style="info" %}
 Підроблена банківська картка використовується для окремого способу пограбування банкоматів без виклику Dispatch.
@@ -45,7 +45,7 @@ icon: money-bill-transfer
 
 ### 1. Виривання банкомата мотузкою
 
-### <img src="../.gitbook/assets/rope.png" alt="" data-size="line"><img src="../.gitbook/assets/laserdrill (1).png" alt="" data-size="line"><img src="../.gitbook/assets/screwdriverset.png" alt="" data-size="line">
+### <img src="../.gitbook/assets/rope.png" alt="" width="36"><img src="../.gitbook/assets/laserdrill (1).png" alt="" width="36"><img src="../.gitbook/assets/screwdriverset.png" alt="" width="36">
 
 Один із базових способів пограбування. Для виконання необхідно закріпити мотузку на бампері авто, просвердлити точку кріплення в банкоматі та пройти мінігру. Після цього банкомат можна вирвати за допомогою транспортного засобу.
 
@@ -69,11 +69,11 @@ icon: money-bill-transfer
 
 **Етап 1. Зняття панелі**
 
-Для початку розбирання необхідно використати паяльну лампу<img src="../.gitbook/assets/blowtorch.png" alt="" data-size="line"> та запальничку<img src="../.gitbook/assets/lighter.png" alt="" data-size="line">
+Для початку розбирання необхідно використати паяльну лампу<img src="../.gitbook/assets/blowtorch.png" alt="" width="36"> та запальничку<img src="../.gitbook/assets/lighter.png" alt="" width="36">
 
 | Потрібний предмет                                                                               | Нагорода                                                                                                   |
 | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| <img src="../.gitbook/assets/blowtorch.png" alt="Паяльна лампа" data-size="line"> Паяльна лампа | <img src="../.gitbook/assets/atmpanel.png" alt="Панель банкомата x1" data-size="line"> Панель банкомата x1 |
+| <img src="../.gitbook/assets/blowtorch.png" alt="Паяльна лампа" width="36"> Паяльна лампа | <img src="../.gitbook/assets/atmpanel.png" alt="Панель банкомата x1" width="36"> Панель банкомата x1 |
 
 **Етап 2. Демонтаж кабелів**
 
@@ -81,7 +81,7 @@ icon: money-bill-transfer
 
 | Нагорода                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------- |
-| <img src="../.gitbook/assets/atmcables.png" alt="Кабелі банкомата x1" data-size="line"> Кабелі банкомата x1 |
+| <img src="../.gitbook/assets/atmcables.png" alt="Кабелі банкомата x1" width="36"> Кабелі банкомата x1 |
 
 **Етап 3. Демонтаж материнської плати**
 
@@ -89,11 +89,11 @@ icon: money-bill-transfer
 
 | Нагорода                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="../.gitbook/assets/atmmotherboard.png" alt="Материнська плата банкомата x1" data-size="line"> Материнська плата банкомата x1 |
+| <img src="../.gitbook/assets/atmmotherboard.png" alt="Материнська плата банкомата x1" width="36"> Материнська плата банкомата x1 |
 
 ### 2. Свердління банкомата
 
-<img src="../.gitbook/assets/laserdrill (1).png" alt="" data-size="line">
+<img src="../.gitbook/assets/laserdrill (1).png" alt="" width="36">
 
 Класичний спосіб злому банкомата за допомогою дриля. Під час виконання існує ризик пошкодження інструмента.
 
@@ -108,7 +108,7 @@ icon: money-bill-transfer
 * Приблизно 50% шанс поломки дриля.
 * Cooldown: 5 хвилин.
 
-### 3. Використання C4<img src="../.gitbook/assets/bomb_c4 (1).png" alt="" data-size="line">
+### 3. Використання C4<img src="../.gitbook/assets/bomb_c4 (1).png" alt="" width="36">
 
 Один із найприбутковіших способів пограбування. На банкомат встановлюється заряд C4, а після вибуху відкривається доступ до готівки.
 
@@ -120,7 +120,7 @@ icon: money-bill-transfer
 
 **Cooldown:** 5 хвилин.
 
-### 4. Терміт <img src="../.gitbook/assets/thermite.png" alt="" data-size="line">
+### 4. Терміт <img src="../.gitbook/assets/thermite.png" alt="" width="36">
 
 Терміт дозволяє пропалити захисні механізми банкомата та отримати доступ до його внутрішнього відсіку.
 
@@ -145,7 +145,7 @@ icon: money-bill-transfer
 
 **Cooldown:** 10 хвилин.
 
-### 6. Газовий підрив <img src="../.gitbook/assets/x_gastank.png" alt="" data-size="line">
+### 6. Газовий підрив <img src="../.gitbook/assets/x_gastank.png" alt="" width="36">
 
 Банкомат заповнюється газом, після чого газ підпалюється запальничкою. Метод відрізняється простою механікою та легкою мінігрою.
 
@@ -158,7 +158,7 @@ icon: money-bill-transfer
 
 **Cooldown:** 5 хвилин.
 
-### 7. Розбиття банкомата <img src="../.gitbook/assets/broken_keypad.png" alt="" data-size="line">
+### 7. Розбиття банкомата <img src="../.gitbook/assets/broken_keypad.png" alt="" width="36">
 
 Найпростіший спосіб взаємодії з банкоматом. Для виконання достатньо будь-якого важкого інструмента.
 
@@ -176,7 +176,7 @@ icon: money-bill-transfer
 * Підходить для початківців.
 * Cooldown: 1 хвилина.
 
-### 8. Використання підробленої банківської картки <img src="../.gitbook/assets/x_fakecredit.png" alt="" data-size="line">
+### 8. Використання підробленої банківської картки <img src="../.gitbook/assets/x_fakecredit.png" alt="" width="36">
 
 Під час пограбування будинків можна знайти підроблену банківську картку. Вона дозволяє отримати доступ до банкомата без використання вибухівки чи інструментів.
 

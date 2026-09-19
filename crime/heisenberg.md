@@ -23,12 +23,12 @@ icon: flask
 
 | Кількість | Предмет | Де взяти |
 | ---: | --- | --- |
-| 1 | <img src="../.gitbook/assets/kq_meth_lab_kit.png" alt="Набір" data-size="line"> **Набір для приготування метамфетаміну** | Захід штату (маршрут від Джессі) — **можлива охорона** |
-| 1 | <img src="../.gitbook/assets/kq_ammonia.png" alt="Амоніак" data-size="line"> **Амоніак** | **Цистерни** — 3 біля Humane Labs + 1 у доках LS · **`E`** → **«Відкрити клапан»** |
-| 1 | <img src="../.gitbook/assets/kq_acetone.png" alt="Ацетон" data-size="line"> **Ацетон** | Склад біля Sandy Shores |
-| 1 | <img src="../.gitbook/assets/kq_ethanol.png" alt="Етанол" data-size="line"> **Етанол** | Там само |
-| 1 | <img src="../.gitbook/assets/kq_meth_pills.png" alt="Псевдоефедрин" data-size="line"> **Псевдоефедрин** | Там само — **охорона біля складу** |
-| **3** | <img src="../.gitbook/assets/kq_lithium.png" alt="Літій" data-size="line"> **Літієвий пакет** | Купи **старих акумуляторів** на сміттезвалищі (кілька шт. за раз) |
+| 1 | <img src="../.gitbook/assets/kq_meth_lab_kit.png" alt="Набір" width="36"> **Набір для приготування метамфетаміну** | Захід штату (маршрут від Джессі) — **можлива охорона** |
+| 1 | <img src="../.gitbook/assets/kq_ammonia.png" alt="Амоніак" width="36"> **Амоніак** | **Цистерни** — 3 біля Humane Labs + 1 у доках LS · **`E`** → **«Відкрити клапан»** |
+| 1 | <img src="../.gitbook/assets/kq_acetone.png" alt="Ацетон" width="36"> **Ацетон** | Склад біля Sandy Shores |
+| 1 | <img src="../.gitbook/assets/kq_ethanol.png" alt="Етанол" width="36"> **Етанол** | Там само |
+| 1 | <img src="../.gitbook/assets/kq_meth_pills.png" alt="Псевдоефедрин" width="36"> **Псевдоефедрин** | Там само — **охорона біля складу** |
+| **3** | <img src="../.gitbook/assets/kq_lithium.png" alt="Літій" width="36"> **Літієвий пакет** | Купи **старих акумуляторів** на сміттезвалищі (кілька шт. за раз) |
 
 **Амоніак з цистерни:** до **4** пляшок з однієї; поповнення **~20 хв** після **повного** спустошення (поки залишилась остання — таймер не стартує).
 
@@ -64,10 +64,10 @@ icon: flask
 
 Налийте / покладіть у **казан** (порядок не важливий):
 
-1. <img src="../.gitbook/assets/kq_acetone.png" alt="Ацетон" data-size="line"> Ацетон
-2. <img src="../.gitbook/assets/kq_ammonia.png" alt="Амоніак" data-size="line"> Амоніак
-3. <img src="../.gitbook/assets/kq_meth_pills.png" alt="Псевдоефедрин" data-size="line"> Псевдоефедрин
-4. <img src="../.gitbook/assets/kq_lithium.png" alt="Літій" data-size="line"> Літієвий пакет — **1 шт.**
+1. <img src="../.gitbook/assets/kq_acetone.png" alt="Ацетон" width="36"> Ацетон
+2. <img src="../.gitbook/assets/kq_ammonia.png" alt="Амоніак" width="36"> Амоніак
+3. <img src="../.gitbook/assets/kq_meth_pills.png" alt="Псевдоефедрин" width="36"> Псевдоефедрин
+4. <img src="../.gitbook/assets/kq_lithium.png" alt="Літій" width="36"> Літієвий пакет — **1 шт.**
 
 ### Етап 2 — Перший нагрів
 
@@ -91,7 +91,7 @@ icon: flask
 
 ### Етап 6 — Етанол
 
-1. Додайте <img src="../.gitbook/assets/kq_ethanol.png" alt="Етанол" data-size="line"> **етанол**.
+1. Додайте <img src="../.gitbook/assets/kq_ethanol.png" alt="Етанол" width="36"> **етанол**.
 2. Тримайте **низьку** температуру, поки з казана **не перестане йти дим** (етанол ще реагує).
 
 ### Етап 7 — Фінал
@@ -110,9 +110,9 @@ icon: flask
 
 | Чистота | Продукт | Ефект (орієнтовно) |
 | --- | --- | --- |
-| **40%+** | <img src="../.gitbook/assets/kq_meth_low.png" alt="Низька" data-size="line"> **Низька якість** | +броня, −здоров’я, витривалість |
-| **75%+** | <img src="../.gitbook/assets/kq_meth_mid.png" alt="Середня" data-size="line"> **Середня якість** | Стабільніший ефект, менше шкоди |
-| **95%+** | <img src="../.gitbook/assets/kq_meth_high.png" alt="Висока" data-size="line"> **Висока якість** | Максимальний ефект, мінімум побічних |
+| **40%+** | <img src="../.gitbook/assets/kq_meth_low.png" alt="Низька" width="36"> **Низька якість** | +броня, −здоров’я, витривалість |
+| **75%+** | <img src="../.gitbook/assets/kq_meth_mid.png" alt="Середня" width="36"> **Середня якість** | Стабільніший ефект, менше шкоди |
+| **95%+** | <img src="../.gitbook/assets/kq_meth_high.png" alt="Висока" width="36"> **Висока якість** | Максимальний ефект, мінімум побічних |
 
 Зіпсована реакція — партія **не придатна** («не вдалося виготовити придатний метамфетамін»). За ідеальну варку без втрат — до **10 од.**
 
