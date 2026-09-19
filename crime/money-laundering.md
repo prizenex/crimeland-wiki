@@ -53,9 +53,9 @@ icon: sack-dollar
 
 | Предмет | Ціна | Навіщо |
 | --- | --- | --- |
-| <img src="../.gitbook/assets/warehouse_locator.png" alt="Локатор складів" width="36"> | Локатор складів | ~$10 000 | Знайти чужі / вільні склади на карті |
-| <img src="../.gitbook/assets/hack_laptop.png" alt="Хакерський ноутбук" width="36"> | Хакерський ноутбук | ~$5 000 | Вимкнути сигналізацію на складі |
-| <img src="../.gitbook/assets/lockpick.png" alt="Відмичка" width="36"> | Відмичка | ~$100 | Зламати двері чужого складу (витрачається) |
+| <img src="../.gitbook/assets/warehouse_locator.png" alt="Локатор складів" width="36"> **Локатор складів** | ~$10 000 | Знайти чужі / вільні склади на карті |
+| <img src="../.gitbook/assets/hack_laptop.png" alt="Хакерський ноутбук" width="36"> **Хакерський ноутбук** | ~$5 000 | Вимкнути сигналізацію на складі |
+| <img src="../.gitbook/assets/lockpick.png" alt="Відмичка" width="36"> **Відмичка** | ~$100 | Зламати двері чужого складу (витрачається) |
 
 Покращення складів купуються окремо в **тому ж ангарі Сенді Шорс** — інший NPC поруч із продавцем складів:
 
@@ -92,7 +92,7 @@ icon: sack-dollar
 
 | Вхід | Вихід |
 | --- | --- |
-| <img src="../.gitbook/assets/markedbills.png" alt="Мічені купюри" width="36"> | Мічені купюри | <img src="../.gitbook/assets/unmarked_money.png" alt="Немічені гроші" width="36"> Немічені гроші |
+| <img src="../.gitbook/assets/markedbills.png" alt="Мічені купюри" width="36"> **Мічені купюри** | <img src="../.gitbook/assets/unmarked_money.png" alt="Немічені гроші" data-size="line"> **Немічені гроші** |
 
 **Перший крок** для будь-яких мічених купюр з [пограбувань](atms.md) та контрактів.
 
@@ -100,7 +100,7 @@ icon: sack-dollar
 
 | Вхід | Вихід |
 | --- | --- |
-| <img src="../.gitbook/assets/unmarked_money.png" alt="Немічені гроші" width="36"> | Немічені гроші | <img src="../.gitbook/assets/wet_money.png" alt="Мокрі гроші" width="36"> Мокрі гроші |
+| <img src="../.gitbook/assets/unmarked_money.png" alt="Немічені гроші" width="36"> **Немічені гроші** | <img src="../.gitbook/assets/wet_money.png" alt="Мокрі гроші" data-size="line"> **Мокрі гроші** |
 
 На складі до **4 машин** (частина відкривається випадково при вході). Час обробки: **~0,2 сек** на одиницю суми.
 
@@ -120,7 +120,7 @@ icon: sack-dollar
 
 | Вхід | Вихід | Ліміт за раз |
 | --- | --- | --- |
-| <img src="../.gitbook/assets/dry_money.png" alt="Сухі гроші" width="36"> | Сухі гроші | **Чиста готівка** | 1–50 000 |
+| <img src="../.gitbook/assets/dry_money.png" alt="Сухі гроші" width="36"> **Сухі гроші** | **Чиста готівка** | 1–50 000 |
 
 Лише після **сушки** — отримаєте звичайні гроші в [інвентар](../character/inventory.md), які можна витрачати в банку та магазинах.
 
