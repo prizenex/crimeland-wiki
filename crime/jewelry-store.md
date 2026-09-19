@@ -14,6 +14,22 @@ icon: gem
 - Мала ювелірка
 - Велика ювелірка (Vangelico)
 
+## Здобич та ціни ломбарду
+
+З вітрин **обох** ювелірок випадає один пул предметів. Нижче — повний перелік у порядку від дорожчого до дешевшого; ціни — орієнтир при здачі в ломбард (Вайс):
+
+| Предмет | Вартість (ломбард) |
+| --- | --- |
+| <img src="../.gitbook/assets/diamonds_box.png" alt="Скринька з діамантами" data-size="line"> **Скринька з діамантами** | **~$10 000** |
+| <img src="../.gitbook/assets/diamond_necklace.png" alt="Діамантове намисто" data-size="line"> **Діамантове намисто** | **~$7 500** |
+| <img src="../.gitbook/assets/rolex.png" alt="Золотий годинник" data-size="line"> **Золотий годинник** | **~$5 000** |
+| <img src="../.gitbook/assets/diamond_ring.png" alt="Діамантове кільце" data-size="line"> **Діамантове кільце** | **~$4 000** |
+| <img src="../.gitbook/assets/luxurious_watch.png" alt="Розкішний годинник" data-size="line"> **Розкішний годинник** | **~$3 000** |
+| <img src="../.gitbook/assets/goldchain.png" alt="Золотий ланцюжок" data-size="line"> **Золотий ланцюжок** | **~$1 800** |
+| <img src="../.gitbook/assets/tenkgoldchain.png" alt="Золотий ланцюжок 10к" data-size="line"> **Золотий ланцюжок 10к** | **~$1 100** |
+
+Найрідкісніша здобич — **скринька з діамантами**; далі за вартістю — **діамантове намисто**, потім **золотий годинник**.
+
 ## Мала ювелірка
 
 ![](../.gitbook/assets/blips/617.png) Мала ювелірка — **центр міста** (район Legion). Доступна для пограбування без переговорів із правоохоронними органами.
@@ -51,16 +67,7 @@ icon: gem
 - Кулемети
 ### Можлива здобич
 
-З вітрин можуть випадати:
-
-| Предмет | Вартість |
-| --- | --- |
-| <img src="../.gitbook/assets/rolex.png" alt="Золотий годинник" data-size="line"> **Золотий годинник** | **$8 000** |
-| <img src="../.gitbook/assets/diamond_necklace.png" alt="Діамантове намисто" data-size="line"> **Діамантове намисто** | **$7 500** |
-| <img src="../.gitbook/assets/diamond_ring.png" alt="Діамантове кільце" data-size="line"> **Діамантове кільце** | **$3 500** |
-| <img src="../.gitbook/assets/luxurious_watch.png" alt="Розкішний годинник" data-size="line"> **Розкішний годинник** | **$3 000** |
-| <img src="../.gitbook/assets/goldchain.png" alt="Золотий ланцюжок" data-size="line"> **Золотий ланцюжок** | **$1 800** |
-| <img src="../.gitbook/assets/tenkgoldchain.png" alt="Золотий ланцюжок 10к" data-size="line"> **Золотий ланцюжок 10к** | **$1 100** |
+Див. [таблицю здобичі та цін ломбарду](#здобич-та-ціни-ломбарду) вище — той самий пул предметів.
 
 ## Велика ювелірка (Vangelico)
 
@@ -110,21 +117,8 @@ icon: gem
 
 ### Можлива здобич
 
-З вітрин можуть випадати:
+Див. [таблицю здобичі та цін ломбарду](#здобич-та-ціни-ломбарду) вище — той самий пул предметів.
 
-| Предмет | Вартість |
-| --- | --- |
-| <img src="../.gitbook/assets/diamonds_box.png" alt="Скринька з діамантами" data-size="line"> **Скринька з діамантами** | **$10 000** |
-| <img src="../.gitbook/assets/rolex.png" alt="Золотий годинник" data-size="line"> **Золотий годинник** | **$8 000** |
-| <img src="../.gitbook/assets/diamond_necklace.png" alt="Діамантове намисто" data-size="line"> **Діамантове намисто** | **$7 500** |
-| <img src="../.gitbook/assets/diamond_ring.png" alt="Діамантове кільце" data-size="line"> **Діамантове кільце** | **$3 500** |
-| <img src="../.gitbook/assets/luxurious_watch.png" alt="Розкішний годинник" data-size="line"> **Розкішний годинник** | **$3 000** |
-| <img src="../.gitbook/assets/goldchain.png" alt="Золотий ланцюжок" data-size="line"> **Золотий ланцюжок** | **$1 800** |
-| <img src="../.gitbook/assets/tenkgoldchain.png" alt="Золотий ланцюжок 10к" data-size="line"> **Золотий ланцюжок 10к** | **$1 100** |
-
-### Рідкісні предмети
-
-Найдорожча здобич — <img src="../.gitbook/assets/diamonds_box.png" alt="Скринька з діамантами" data-size="line"> **Скринька з діамантами** (**$10 000**). Окремі вітрини можуть містити лише один такий предмет.
 ## Порівняння ювелірок
 | Параметр | Мала | Велика |
 | --- | --- | --- |
