@@ -65,7 +65,7 @@ icon: users
 
 За перемоги у [війнах](territory-war.md) учасники отримують **біткоіни**:
 
-<img src="../.gitbook/assets/bitcoin.png" data-size="line">
+<img src="../.gitbook/assets/bitcoin.png" alt="Біткоін" data-size="original">
 
 Біткоіни витрачаються в **Континенталь** (безпечна зона) на набори для крафту зброї, броню, зіп-тай тощо.
 
