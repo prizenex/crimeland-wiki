@@ -91,9 +91,6 @@ $3,000 – $6,000
 | <img src="../.gitbook/assets/plasma_cutter.png" alt="Плазмовий різак" data-size="line"> **Плазмовий різак** | 2% |
 | <img src="../.gitbook/assets/luxurious_watch.png" alt="Люксовий годинник" data-size="line"> **Люксовий годинник** | 7% |
 | <img src="../.gitbook/assets/x_fakecredit.png" alt="Підроблена кредитна картка" data-size="line"> **Підроблена кредитна картка** | 10% |
-
-| Предмет | Шанс |
-| --- | --- |
 | <img src="../.gitbook/assets/goldchain.png" alt="Золотий ланцюжок" data-size="line"> **Золотий ланцюжок** | 20% |
 | <img src="../.gitbook/assets/tenkgoldchain.png" alt="Золотий ланцюжок 10к" data-size="line"> **Золотий ланцюжок 10к** | 20% |
 | <img src="../.gitbook/assets/cryptostick.png" alt="Крипто-стік" data-size="line"> **Крипто-стік** | 15% |

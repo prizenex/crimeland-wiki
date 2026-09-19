@@ -117,9 +117,6 @@ icon: gem
 | <img src="../.gitbook/assets/rolex.png" alt="Rolex" data-size="line"> **Rolex** | **$8 000** |
 | <img src="../.gitbook/assets/diamond_necklace.png" alt="Diamond Necklace" data-size="line"> **Diamond Necklace** | **$7 500** |
 | <img src="../.gitbook/assets/diamond_ring.png" alt="Diamond Ring" data-size="line"> **Diamond Ring** | **$3 500** |
-
-| Предмет | Вартість |
-| --- | --- |
 | <img src="../.gitbook/assets/luxurious_watch.png" alt="Luxurious Watch" data-size="line"> **Luxurious Watch** | **$3 000** |
 | <img src="../.gitbook/assets/goldchain.png" alt="Gold Chain" data-size="line"> **Gold Chain** | **$1 800** |
 | <img src="../.gitbook/assets/tenkgoldchain.png" alt="10K Gold Chain" data-size="line"> **10K Gold Chain** | **$1 100** |
