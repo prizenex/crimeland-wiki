@@ -55,12 +55,13 @@ icon: gem
 
 | Предмет | Вартість |
 | --- | --- |
-| <img src="../.gitbook/assets/rolex.png" alt="Rolex" data-size="line"> **Rolex** | **$8 000** |
-| <img src="../.gitbook/assets/diamond_necklace.png" alt="Diamond Necklace" data-size="line"> **Diamond Necklace** | **$7 500** |
-| <img src="../.gitbook/assets/diamond_ring.png" alt="Diamond Ring" data-size="line"> **Diamond Ring** | **$3 500** |
-| <img src="../.gitbook/assets/luxurious_watch.png" alt="Luxurious Watch" data-size="line"> **Luxurious Watch** | **$3 000** |
-| <img src="../.gitbook/assets/goldchain.png" alt="Gold Chain" data-size="line"> **Gold Chain** | **$1 800** |
-| <img src="../.gitbook/assets/tenkgoldchain.png" alt="10K Gold Chain" data-size="line"> **10K Gold Chain** | **$1 100** |
+| <img src="../.gitbook/assets/rolex.png" alt="Золотий годинник" data-size="line"> **Золотий годинник** | **$8 000** |
+| <img src="../.gitbook/assets/diamond_necklace.png" alt="Діамантове намисто" data-size="line"> **Діамантове намисто** | **$7 500** |
+| <img src="../.gitbook/assets/diamond_ring.png" alt="Діамантове кільце" data-size="line"> **Діамантове кільце** | **$3 500** |
+| <img src="../.gitbook/assets/luxurious_watch.png" alt="Розкішний годинник" data-size="line"> **Розкішний годинник** | **$3 000** |
+| <img src="../.gitbook/assets/goldchain.png" alt="Золотий ланцюжок" data-size="line"> **Золотий ланцюжок** | **$1 800** |
+| <img src="../.gitbook/assets/tenkgoldchain.png" alt="Золотий ланцюжок 10к" data-size="line"> **Золотий ланцюжок 10к** | **$1 100** |
+
 ## Велика ювелірка (Vangelico)
 
 ![](../.gitbook/assets/blips/617.png) **Vangelico** — найбільше та найскладніше пограбування ювелірного магазину на сервері (Rockford Hills, Portola Drive).
@@ -113,17 +114,17 @@ icon: gem
 
 | Предмет | Вартість |
 | --- | --- |
-| <img src="../.gitbook/assets/diamonds_box.png" alt="Diamonds Box" data-size="line"> **Diamonds Box** | **$10 000** |
-| <img src="../.gitbook/assets/rolex.png" alt="Rolex" data-size="line"> **Rolex** | **$8 000** |
-| <img src="../.gitbook/assets/diamond_necklace.png" alt="Diamond Necklace" data-size="line"> **Diamond Necklace** | **$7 500** |
-| <img src="../.gitbook/assets/diamond_ring.png" alt="Diamond Ring" data-size="line"> **Diamond Ring** | **$3 500** |
-| <img src="../.gitbook/assets/luxurious_watch.png" alt="Luxurious Watch" data-size="line"> **Luxurious Watch** | **$3 000** |
-| <img src="../.gitbook/assets/goldchain.png" alt="Gold Chain" data-size="line"> **Gold Chain** | **$1 800** |
-| <img src="../.gitbook/assets/tenkgoldchain.png" alt="10K Gold Chain" data-size="line"> **10K Gold Chain** | **$1 100** |
+| <img src="../.gitbook/assets/diamonds_box.png" alt="Скринька з діамантами" data-size="line"> **Скринька з діамантами** | **$10 000** |
+| <img src="../.gitbook/assets/rolex.png" alt="Золотий годинник" data-size="line"> **Золотий годинник** | **$8 000** |
+| <img src="../.gitbook/assets/diamond_necklace.png" alt="Діамантове намисто" data-size="line"> **Діамантове намисто** | **$7 500** |
+| <img src="../.gitbook/assets/diamond_ring.png" alt="Діамантове кільце" data-size="line"> **Діамантове кільце** | **$3 500** |
+| <img src="../.gitbook/assets/luxurious_watch.png" alt="Розкішний годинник" data-size="line"> **Розкішний годинник** | **$3 000** |
+| <img src="../.gitbook/assets/goldchain.png" alt="Золотий ланцюжок" data-size="line"> **Золотий ланцюжок** | **$1 800** |
+| <img src="../.gitbook/assets/tenkgoldchain.png" alt="Золотий ланцюжок 10к" data-size="line"> **Золотий ланцюжок 10к** | **$1 100** |
 
 ### Рідкісні предмети
 
-Найдорожча здобич — <img src="../.gitbook/assets/diamonds_box.png" alt="Diamonds Box" data-size="line"> **Diamonds Box** (**$10 000**). Окремі вітрини можуть містити лише один такий предмет.
+Найдорожча здобич — <img src="../.gitbook/assets/diamonds_box.png" alt="Скринька з діамантами" data-size="line"> **Скринька з діамантами** (**$10 000**). Окремі вітрини можуть містити лише один такий предмет.
 ## Порівняння ювелірок
 | Параметр | Мала | Велика |
 | --- | --- | --- |
