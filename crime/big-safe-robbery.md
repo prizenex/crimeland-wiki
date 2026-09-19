@@ -1,5 +1,5 @@
 ---
-description: Великий сейф — командне пограбування на троє: Lester біля звалки, трос, C4 і USB на фінішній точці (Sandy або Grapeseed).
+description: 'Великий сейф — командне пограбування на троє: Lester біля звалки, трос, C4 і USB на фінішній точці (Sandy або Grapeseed).'
 icon: vault
 ---
 
