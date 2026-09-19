@@ -22,7 +22,7 @@ icon: flask
 | Кількість | Іконка | Предмет | Де взяти |
 | ---: | --- | --- | --- |
 | 1 | <img src="../.gitbook/assets/kq_meth_lab_kit.png" alt="Набір" width="36"> | **Набір для приготування метамфетаміну** | Захід штату (маршрут від Джессі) — **можлива охорона** |
-| 1 | <img src="../.gitbook/assets/kq_ammonia.png" alt="Амоніак" width="36"> | **Амоніак** | **Цистерни** — 3 біля Humane Labs + 1 у доках LS · **`E`**, **«Відкрити клапан»** |
+| 1 | <img src="../.gitbook/assets/kq_ammonia.png" alt="Амоніак" width="36"> | **Амоніак** | **Цистерни** — 3 біля Humane Labs + 1 у доках LS · дія **«Відкрити клапан»** |
 | 1 | <img src="../.gitbook/assets/kq_acetone.png" alt="Ацетон" width="36"> | **Ацетон** | Склад біля Sandy Shores |
 | 1 | <img src="../.gitbook/assets/kq_ethanol.png" alt="Етанол" width="36"> | **Етанол** | Там само |
 | 1 | <img src="../.gitbook/assets/kq_meth_pills.png" alt="Псевдоефедрин" width="36"> | **Псевдоефедрин** | Там само — **охорона біля складу** |

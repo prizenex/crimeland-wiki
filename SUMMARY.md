@@ -93,6 +93,7 @@
 * [Таксист](jobs/taxi-driver.md)
 * [Водій автобусу](jobs/bus-driver.md)
 * [Шахтар](jobs/miner.md)
+* [Склад переробки](jobs/recycling-warehouse.md)
 * [Далекобійник](jobs/trucker.md)
 * [Електрик](jobs/electrician.md)
 * [Лісопилка](jobs/sawmill.md)

@@ -10,7 +10,7 @@ icon: hand-sparkles
 ## Де знайти
 
 - **Локація** — Південний LS (район Strawberry / Davis)
-- **Бліп на карті** — <img src="../.gitbook/assets/nailshop_blip.png" alt="Салон нігтів" data-size="line"> **«Салон нігтів»**
+- **На мапі** — <img src="../.gitbook/assets/nailshop_blip.png" alt="Салон нігтів" data-size="line"> **«Салон нігтів»**
 - **Орієнтир** — вулиця біля салонів краси, південний LS
 
 ## Як зробити манікюр
