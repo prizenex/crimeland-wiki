@@ -447,8 +447,8 @@ icon: font-awesome-icon-name
 | `crime/containers.md` | lunar `cargo` contract | `config/contracts/cargo.lua` | `[crime]` |
 | `crime/bank-robbery.md` | lunar `fleeca`, `paleto`, `pacific` | `config/contracts/*.lua` | `[crime]` |
 | `crime/casino-robbery.md` | lunar `casino` contract | `config/contracts/casino.lua` | `[crime]` |
-| `crime/big-safe-robbery.md` | `rm_unionheist` | `[crime]/rm_unionheist/config.lua` | `[crime]` |
-| `crime/underground-vault-robbery.md` | `rm_vaultheist` | `[crime]/rm_vaultheist/cfg.lua` | `[crime]` |
+| `crime/big-safe-robbery.md` | `rm_vaultheist` | `[crime]/rm_vaultheist/cfg.lua` | `[crime]` |
+| `crime/underground-vault-robbery.md` | `rm_unionheist` | `[crime]/rm_unionheist/config.lua` | `[crime]` |
 | `crime/weed.md` | `kq_weed`, `kq_wild_cannabis` | обидва config у `[crime]/kq_*` | `[crime]` |
 | `crime/coke.md` | `core_gangs` (зони переробки/збуту) | `[crime]/core_gangs/config.lua` → coke zones | `[crime]` |
 | `crime/heisenberg.md` | `kq_meth` | `[crime]/kq_meth/config.lua` | `[crime]` |
