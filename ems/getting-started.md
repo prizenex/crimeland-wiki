@@ -17,13 +17,11 @@ icon: truck-medical
 
 ## Перша зміна
 
-| Крок | Дія |
-| --- | --- |
-| 1 | Роздягальня → **форма** EMS |
-| 2 | Візьміть **медичну сумку** — [обладнання](equipment.md) |
-| 3 | Увійдіть на зміну |
-| 4 | Відкрийте [MDT](../police/database-terminal.md) клавішею **`K`** — виклики та звіти |
-| 5 | Налаштуйте [рацію](../basics/radio.md) на частоту EMS |
+1. Роздягальня → **форма** EMS
+2. Візьміть **медичну сумку** — [обладнання](equipment.md)
+3. Увійдіть на зміну
+4. Відкрийте [MDT](../police/database-terminal.md) клавішею **`K`** — виклики та звіти
+5. Налаштуйте [рацію](../basics/radio.md) на частоту EMS
 
 ## Перший виїзд
 
@@ -35,10 +33,8 @@ icon: truck-medical
 
 ## Лікарні на мапі
 
-| Локація | Бліп |
-| --- | --- |
-| **Aldore** (центр LS) | ![](../.gitbook/assets/blips/61.png) |
-| **Sandy Shores** | ![](../.gitbook/assets/blips/61.png) |
+- **Aldore (центр LS)** — ![](../.gitbook/assets/blips/61.png)
+- **Sandy Shores** — ![](../.gitbook/assets/blips/61.png)
 
 Шукайте зелений хрест на карті.
 

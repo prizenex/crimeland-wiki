@@ -9,10 +9,8 @@ icon: person-skating
 
 ## Де купити
 
-| Магазин | Орієнтир |
-| --- | --- |
-| Venice Beach | Набережна **Venice** |
-| Xtreme Store | Центр міста, біля **Legion Square** |
+- **Venice Beach** — Набережна **Venice**
+- **Xtreme Store** — Центр міста, біля **Legion Square**
 
 ## Як кататись
 

@@ -9,13 +9,11 @@ icon: basketball
 
 ## Де грати
 
-| Майданчик | Орієнтир на мапі |
-| --- | --- |
-| Пляж (південь) | Район **Vespucci Beach** / набережна |
-| Пляж (центр) | Біля **Del Perro** |
-| Legion Square | Центр LS, біля **Legion** |
-| Alta / Pillbox | Район **Pillbox Hill** |
-| Downtown | Центр міста, біля **Alta** |
+- **Пляж (південь)** — Район **Vespucci Beach** / набережна
+- **Пляж (центр)** — Біля **Del Perro**
+- **Legion Square** — Центр LS, біля **Legion**
+- **Alta / Pillbox** — Район **Pillbox Hill**
+- **Downtown** — Центр міста, біля **Alta**
 
 Точних бліпів на мапі немає — шукайте відкриті майданчики з **кільцем** і м’ячем.
 

@@ -9,10 +9,8 @@ icon: skateboard
 
 ## Де купити
 
-| Магазин | Орієнтир |
-| --- | --- |
-| Venice Beach | Набережна **Venice** (захід LS) |
-| Xtreme Store | Центр міста, біля **Legion Square** (~274, 136) |
+- **Venice Beach** — Набережна **Venice** (захід LS)
+- **Xtreme Store** — Центр міста, біля **Legion Square** (~274, 136)
 
 Підійдіть до NPC → **`E`** → каталог спорту.
 
