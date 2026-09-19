@@ -16,7 +16,7 @@ icon: id-card
 ## Як переглянути документи
 
 1. `Tab` → інвентар.
-2. **ПКМ** ![](../.gitbook/assets/inputs/mouse-rmb.svg) на <img src="../.gitbook/assets/wallet.png" alt="Гаманець" data-size="line"> **«Гаманець»** → **«Використати»**.
+2. **ПКМ** <img src="../.gitbook/assets/inputs/mouse-rmb.svg" alt="ПКМ" data-size="line"> на <img src="../.gitbook/assets/wallet.png" alt="Гаманець" data-size="line"> **«Гаманець»** → **«Використати»**.
 3. Оберіть потрібну картку в меню гаманця.
 
 На **ID-картці** вказано **Citizen ID** — це ваш постійний ідентифікатор (у [меню сервера](server-menu.md) той самий номер підписаний як **Passport ID**). Його можна **виділити й скопіювати** з картки (для [банківських переказів](bank.md) або спільного рахунку).

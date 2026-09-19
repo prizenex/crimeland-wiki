@@ -2,25 +2,25 @@
 
 * [Ласкаво просимо](README.md)
 
-## Перший день у штаті
+## Основи
 
 * [Як зайти на сервер?](getting-started/connect.md)
+* [Правила гри](basics/rules.md)
 * [Створення персонажа](getting-started/character.md)
 * [Початок гри](getting-started/first-steps.md)
-* [Правила гри](basics/rules.md)
-* [Керування](basics/controls.md)
+* [Меню сервера](basics/server-menu.md)
+* [Батлпас](basics/battlepass.md)
 * [Інвентар](character/inventory.md)
 * [Телефон](basics/phone.md)
+* [Рація](basics/radio.md)
+* [Керування](basics/controls.md)
 * [Банк](basics/bank.md)
 * [Мерія](basics/city-hall.md)
 * [Документи](basics/documents.md)
-* [Маркетплейс](basics/marketplace.md)
 * [Магазини](basics/shops.md)
-* [Меню сервера](basics/server-menu.md)
-* [Рація](basics/radio.md)
-* [Батлпас](basics/battlepass.md)
+* [Маркетплейс](basics/marketplace.md)
 
-## Авто й пересування
+## Транспорт
 
 * [Автошкола](transport/driving-school.md)
 * [Оренда](transport/rental.md)
@@ -33,7 +33,7 @@
 * [Причіпи](transport/trailers.md)
 * [Бездоріжжя](transport/off-road.md)
 
-## Ваш персонаж
+## Персонаж
 
 * [Статуси](character/statuses.md)
 * [Радіальне меню](controls/radial.md)
@@ -47,124 +47,83 @@
 * [Шлюб](character/marriage.md)
 * [Меню стосунків](character/love-menu.md)
 
-## Дім і майно
+## Будинок
 
 * [Перше житло](housing/first-home.md)
 * [Ринок нерухомості](housing/real-estate-market.md)
 * [Управління будинком](housing/house-management.md)
 * [Декорування](housing/decorating.md)
 
-## Власна справа
+## Бізнес
 
 * [Огляд бізнесів](business/overview.md)
-
-### Роздріб і харчування
-
 * [Магазин 24/7](business/twenty-four-seven.md)
-* [Кафе](business/cafe.md)
-
-### Паливо та виробництво
-
 * [АЗС](business/gas-station.md)
 * [Фабрика](business/factory.md)
-
-### Автобізнес
-
+* [Кафе](business/cafe.md)
 * [Шоурум](business/showroom.md)
 * [Автомайстерня](business/auto-repair-shop.md)
 
-## Відпочинок і розваги
-
-### Казино та вечір у місті
+## Розваги
 
 * [Казино](entertainment/casino.md)
 * [Більярд](entertainment/billiards.md)
-
-### Спорт
-
 * [Теніс](entertainment/tennis.md)
 * [Гольф](entertainment/golf.md)
 * [Баскетбол](entertainment/basketball.md)
-* [Бойові мистецтва](entertainment/martial-arts.md)
-
-### Екстрим
-
 * [BMX](entertainment/bmx.md)
 * [Ролики](entertainment/roller-skates.md)
 * [Скейт](entertainment/skateboard.md)
-* [Паркур](entertainment/parkour.md)
-
-### Сезонні активності
-
 * [Ковзани](entertainment/ice-skates.md)
 * [Сноуборд](entertainment/snowboard.md)
+* [Паркур](entertainment/parkour.md)
+* [Бойові мистецтва](entertainment/martial-arts.md)
 
-## Робота і заробіток
-
-### Перші гроші
+## Роботи
 
 * [Сміттяр](jobs/cleaner.md)
 * [Мийник вікон](jobs/window-cleaner.md)
 * [Кур'єр](jobs/courier.md)
-* [Будівельник](jobs/builder.md)
-* [Садівництво](jobs/gardening.md)
-
-### Міські роботи
-
 * [Таксист](jobs/taxi-driver.md)
 * [Водій автобусу](jobs/bus-driver.md)
 * [Далекобійник](jobs/trucker.md)
+* [Будівельник](jobs/builder.md)
 * [Електрик](jobs/electrician.md)
-* [Лісоруб](jobs/sawmill.md)
-* [Шахтар](jobs/miner.md)
-* [Пілот](jobs/pilot.md)
-
-### Природа та ферма
-
+* [Лісопилка](jobs/sawmill.md)
+* [Садівництво](jobs/gardening.md)
 * [Фермерство](jobs/farming.md)
+* [Самогоноваріння](jobs/moonshining.md)
 * [Мисливство](jobs/hunting.md)
 * [Рибальство](jobs/fishing.md)
-* [Самогоноваріння](jobs/moonshining.md)
-
-### Фракції та бізнес
-
+* [Шахтар](jobs/miner.md)
 * [Пожежник](jobs/firefighter.md)
+* [Пілот](jobs/pilot.md)
 * [Механік](jobs/mechanic.md)
 
-## Кримінальний світ
-
-### Перші кроки
+## Кримінал
 
 * [Банди](crime/gangs.md)
 * [Відмичка](crime/lockpick.md)
 * [Грабіж та взаємодія](crime/robbery-interaction.md)
-* [Банкомати](crime/atms.md)
-* [Магазин 24/7](crime/twenty-four-seven.md)
-
-### Контракти та великі справи
-
+* [Війна за території](crime/territory-war.md)
 * [Контрактний планшет](crime/contract-tablet.md)
+* [Магазин 24/7](crime/twenty-four-seven.md)
+* [Ювелірний салон](crime/jewelry-store.md)
+* [Банкомати](crime/atms.md)
 * [Угон авто](crime/car-theft.md)
 * [Будинки](crime/houses.md)
 * [Контейнери](crime/containers.md)
-* [Ювелірний салон](crime/jewelry-store.md)
 * [Пограбування банку](crime/bank-robbery.md)
 * [Пограбування казино](crime/casino-robbery.md)
-* [Пограбування Union](crime/underground-vault-robbery.md)
-
-### Наркобізнес
-
+* [Пограбування великого сейфу](crime/big-safe-robbery.md)
+* [Пограбування підземного сховища](crime/underground-vault-robbery.md)
 * [Трава](crime/weed.md)
 * [Кокос](crime/coke.md)
 * [Гайзенберг](crime/heisenberg.md)
 * [Збут нелегалу](crime/illegal-sales.md)
 * [Відмивка грошей](crime/money-laundering.md)
 
-### Банди й території
-
-* [Війна за території](crime/territory-war.md)
-
-## Державні служби
+## Поліція
 
 * [Вступ і початок роботи](police/getting-started.md)
 * [Посібник офіцера поліції](police/officer-guide.md)
@@ -175,13 +134,13 @@
 * [Дрон](police/drone.md)
 * [К9](police/k9.md)
 
-### EMS
+## ЕМС
 
 * [Вступ і початок роботи](ems/getting-started.md)
 * [Обладнання](ems/equipment.md)
 * [Хвороби](ems/diseases.md)
 
-## Закони штату
+## Закони
 
 * [Конституція](laws/constitution.md)
 * [Адміністративний кодекс](laws/administrative-code.md)

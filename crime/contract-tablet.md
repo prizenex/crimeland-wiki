@@ -10,7 +10,7 @@ icon: tablet-screen-button
 ## Де купити та як відкрити
 
 1. **Купівля** — **будинок Lester** у місті, предмет <img src="../.gitbook/assets/contracts_tablet.png" alt="Контрактний планшет" data-size="line"> **Контрактний планшет**
-2. **Відкриття** — `Tab` → **ПКМ** ![](../.gitbook/assets/inputs/mouse-rmb.svg) на планшеті в [інвентарі](../character/inventory.md) → **Використати**
+2. **Відкриття** — `Tab` → **ПКМ** <img src="../.gitbook/assets/inputs/mouse-rmb.svg" alt="ПКМ" data-size="line"> на планшеті в [інвентарі](../character/inventory.md) → **Використати**
 
 Планшет лишається у вас назавжди — **Gcoin** і **репутація** прив’язані до нього.
 

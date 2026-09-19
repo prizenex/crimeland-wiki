@@ -6,7 +6,7 @@
 
 Вікі читає **гравець у сесії**, не розробник. Пишемо як довідник мешканця штату:
 
-- **Так:** «Підійди до NPC, **`E`** / **`лівий Alt`** ([Керування](../basics/controls.md))», бліп ![](../.gitbook/assets/blips/419.png), іконка ПКМ ![](../.gitbook/assets/inputs/mouse-rmb.svg), предмет <img src="../.gitbook/assets/mechanic_tablet.png" data-size="line"> → **Використати** в інвентарі
+- **Так:** «Підійди до NPC, **`E`** / **`лівий Alt`** ([Керування](../basics/controls.md))», бліп ![](../.gitbook/assets/blips/419.png), іконка ПКМ <img src="../.gitbook/assets/inputs/mouse-rmb.svg" alt="ПКМ" data-size="line">, предмет <img src="../.gitbook/assets/mechanic_tablet.png" data-size="line"> → **Використати** в інвентарі
 - **Таргет (NPC / об'єкти):** не пиши лише `лівий Alt`. Стандарт: **`E`** / **`лівий Alt`** + посилання на [Керування](../basics/controls.md) — там **звичайний** (кружечок + `E`) та **імерсивний** (`Alt` + ЛКМ). **Не згадуй** назву ресурсу таргета.
 - **Ні:** назви ресурсів, `vector3`, `TriggerServerEvent`, папки `[job]`, **команди чату** (`/tablet`, `/multijob`, `/furniture` …)
 
