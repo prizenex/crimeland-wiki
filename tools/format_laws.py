@@ -35,7 +35,7 @@ LAYOUT_BLOCK = """layout:
 """
 
 H1_TITLES = {
-    "constitution.md": "Конституція уряду Лос-Сантос",
+    "constitution.md": "Конституція штату Сан-Андреас",
     "administrative-code.md": "Адміністративний кодекс",
     "criminal-code.md": "Кримінальний кодекс",
     "procedural-code.md": "Процесуальний кодекс штату",

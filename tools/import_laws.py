@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 MAPPINGS: list[tuple[str, str]] = [
     ("laws/Конституція уряду Лос-Сантос.md", "laws/constitution.md"),
+    ("laws/КОНСТИТУЦІЯ ШТАТУ САН-АНДРЕАС.md", "laws/constitution.md"),
     ("laws/АДМІНІСТРАТИВНИЙ КОДЕКС.md", "laws/administrative-code.md"),
     ("laws/КРИМІНАЛЬНИЙ КОДЕКС.md", "laws/criminal-code.md"),
     ("laws/Процесуальний кодекс штату.md", "laws/procedural-code.md"),
