@@ -6,9 +6,6 @@ layout:
   tableOfContents:
     visible: true
 ---
-{% hint style="info" %}
-Повний текст також у грі — [підручники в мерії](../basics/city-hall.md). У IC-спорах посилайтесь на документ у [гаманці](../basics/documents.md), а не на пам'ять з вікі.
-{% endhint %}
 
 # Юрисдикція та взаємодія правоохоронних органів
 

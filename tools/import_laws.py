@@ -32,11 +32,7 @@ MAPPINGS: list[tuple[str, str]] = [
     ("laws/law-enforcement/Посібник Офіцера поліції.md", "police/officer-guide.md"),
 ]
 
-HINT = """{% hint style="info" %}
-Повний текст також у грі — [підручники в мерії](../basics/city-hall.md). У IC-спорах посилайтесь на документ у [гаманці](../basics/documents.md), а не на пам'ять з вікі.
-{% endhint %}
-
-"""
+HINT = ""
 
 
 def read_frontmatter(dest: Path) -> str:
